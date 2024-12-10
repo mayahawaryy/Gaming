@@ -2,93 +2,70 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
+
 public class PlayerStats : MonoBehaviour
 {
+    public GameObject player1;
+    public GameObject player2;
 
-public int health = 6;
-public int lives = 3;
-private float flickerTime = 0f;
-public float flickerDuration = 0.1f;
-private SpriteRenderer spriteRenderer;
-public bool isImmune = false;
-private float immunityTime = 0f;
-public float immunityDuration = 1.5f;
-public int coinsCollected = 0;
-public AudioClip GameOverSound;
+    private int sharedHealth = 6; // Initial shared health value
+    private int lives = 3; 
+    private bool isImmune = false;
+    private float immunityTime = 0f;
+    public float immunityDuration = 1.5f;
 
-    // Start is called before the first frame update
-    void Start()
+    // Function to apply damage to both players
+    public void TakeDamage(int damage)
     {
-       spriteRenderer = this.gameObject. GetComponent<SpriteRenderer>(); 
+        if (!isImmune)
+        {
+            sharedHealth -= damage;
+
+            if (sharedHealth <= 0)
+            {
+                // Both players are dead
+                lives--; 
+                if (lives <= 0)
+                {
+                    Debug.Log("Both Players Dead");
+                    // Handle game over (e.g., load game over scene)
+                    SceneManager.LoadScene(6); 
+                }
+                else
+                {
+                    // Reset shared health 
+                    sharedHealth = 6; 
+                }
+            }
+
+            // Trigger player hit reaction (flickering)
+            StartCoroutine(PlayerFlicker()); 
+
+            // Update player health visuals (if applicable)
+            // Example: Assuming each player has a health bar script
+            // player1.GetComponent<PlayerHealthBar>().UpdateHealth(sharedHealth);
+            // player2.GetComponent<PlayerHealthBar>().UpdateHealth(sharedHealth); 
+        }
     }
-    public void CollectCoins(int coinValue)
+
+    IEnumerator PlayerFlicker()
     {
-coinsCollected = coinsCollected + coinValue;
+        isImmune = true;
+        immunityTime = 0f;
+
+        SpriteRenderer player1Sprite = player1.GetComponent<SpriteRenderer>();
+        SpriteRenderer player2Sprite = player2.GetComponent<SpriteRenderer>();
+
+        while (immunityTime < immunityDuration)
+        {
+            player1Sprite.enabled = !player1Sprite.enabled;
+            player2Sprite.enabled = !player2Sprite.enabled;
+            yield return new WaitForSeconds(0.1f); 
+            immunityTime += 0.1f; 
+        }
+
+        player1Sprite.enabled = true;
+        player2Sprite.enabled = true;
+        isImmune = false;
     }
-
-    // Update is called once per frame
-    void Update()
-    {
-        if(this.isImmune == true)
-{
-SpriteFlicker () ;
-immunityTime = immunityTime + Time.deltaTime;
-if (immunityTime >= immunityDuration)
-{
-this.isImmune = false;
-this.spriteRenderer.enabled = true;
-}
-}
-
-
-
-}
-    void SpriteFlicker ()
-{
-if(this. flickerTime < this.flickerDuration)
-{
-this.flickerTime = this.flickerTime + Time.deltaTime;
-}
-else if (this.flickerTime >= this.flickerDuration)
-{
-spriteRenderer.enabled =! (spriteRenderer.enabled);
-this.flickerTime = 0;
-    }
-   
-
-}
-
-public void TakeDamage (int damage)
-{
-if (this.isImmune == false )
-{
-this.health = this.health - damage;
-//healthbar.fillAmount = this.health/3f;
-if (this.health < 0)
-this.health = 0;
-if (this.lives > 0 && this.health == 0)
-{
-FindObjectOfType<LevelManager>().RespawnPlayer();
-this.health = 6;
-this.lives--;
-}
-else if (this.lives == 0 && this.health == 0)
-{
-Debug.Log ("Gameover");
-Destroy(this.gameObject);
-SceneManager.LoadScene(6);
-}
- 
-Debug.Log ("Player Health:" + this.health.ToString());
-Debug.Log ("Player Lives:" + this.lives.ToString());
-
-}
-PlayHitReaction();
-}
- void PlayHitReaction ()
-{
-this.isImmune = true;
-this.immunityTime = 0f;
-}
-
 }
