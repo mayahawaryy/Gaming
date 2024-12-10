@@ -1,0 +1,639 @@
+fileFormatVersion: 2
+guid: b42dc90a9ef334a75a186b14fcb7ecf9
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Free-Rocks-Pixel-Art-Asset-Pack3-1536x1024_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 214
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9253cbf6807d46eba972f47a5da9fbd
+      internalID: -185632094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Rocks-Pixel-Art-Asset-Pack3-1536x1024_1
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 0
+        width: 273
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6666ed7d09c914b99b22e87bde342edf
+      internalID: -1202882562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Rocks-Pixel-Art-Asset-Pack3-1536x1024_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 141
+        width: 257
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d538ef6f124c449e8a0d49362a4b185a
+      internalID: 2111254514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Rocks-Pixel-Art-Asset-Pack3-1536x1024_3
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 319
+        width: 235
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07e2b539e224e4195915c3682abab80b
+      internalID: 561606997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Rocks-Pixel-Art-Asset-Pack3-1536x1024_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1080
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2f64e66e319c40b584cae0798300f72
+      internalID: 1253241882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Rocks-Pixel-Art-Asset-Pack3-1536x1024_5
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 494
+        width: 115
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e21fbc42c56a9451bb27a5c08b5c18c2
+      internalID: 449123037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Rocks-Pixel-Art-Asset-Pack3-1536x1024_6
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 319
+        width: 179
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81e44b5cbd73946d0b8ebb7c025bda89
+      internalID: 873679595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Rocks-Pixel-Art-Asset-Pack3-1536x1024_7
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 139
+        width: 174
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f6c26098283a451391dd0d719ea7240
+      internalID: -697687921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Rocks-Pixel-Art-Asset-Pack3-1536x1024_8
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 30
+        width: 165
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90a1d6ac262334b7bb37fba99b7b08dd
+      internalID: 1101261033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Rocks-Pixel-Art-Asset-Pack3-1536x1024_9
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 494
+        width: 74
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6b0761cfc66a4556995f06b5aa0cda1
+      internalID: 643702098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Rocks-Pixel-Art-Asset-Pack3-1536x1024_10
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 31
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0b213536effb416c8e3943f1abb482e
+      internalID: -1368870620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Rocks-Pixel-Art-Asset-Pack3-1536x1024_11
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 35
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ab59996bd4ef4e57a1a2e4944c43c7d
+      internalID: 87703897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Rocks-Pixel-Art-Asset-Pack3-1536x1024_12
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 319
+        width: 108
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4225c99bfc4b7456c8f297ecd4ff1b61
+      internalID: -1907970310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Rocks-Pixel-Art-Asset-Pack3-1536x1024_13
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 139
+        width: 115
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 113f0706b470846648b65259b9b4161e
+      internalID: -1070401975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Rocks-Pixel-Art-Asset-Pack3-1536x1024_14
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 30
+        width: 127
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24eb8487719a546e7b3ef24f7eccb25a
+      internalID: 784833441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Rocks-Pixel-Art-Asset-Pack3-1536x1024_15
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 494
+        width: 54
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9688cb9887e74bbca589ddadc9eb02b
+      internalID: -335172885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Rocks-Pixel-Art-Asset-Pack3-1536x1024_16
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 319
+        width: 67
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8d85649143874976945174476c7fb82
+      internalID: -2135353081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Rocks-Pixel-Art-Asset-Pack3-1536x1024_17
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 31
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cab8f92a4fd9147bdbdfd94a9e73eaff
+      internalID: -1209216648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Rocks-Pixel-Art-Asset-Pack3-1536x1024_18
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 139
+        width: 84
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b91b528859014a1f85c0b58cda307a6
+      internalID: 1248019743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Rocks-Pixel-Art-Asset-Pack3-1536x1024_19
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 30
+        width: 83
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1467f7b559bc9437eb620a513b90a79b
+      internalID: -350864451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Rocks-Pixel-Art-Asset-Pack3-1536x1024_20
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 319
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fcf99adbe2c54cd4b2d94af79f4933e
+      internalID: -1579571886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Rocks-Pixel-Art-Asset-Pack3-1536x1024_21
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 31
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 840717870e3f94254beb92f5b77a493b
+      internalID: 1086577431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Rocks-Pixel-Art-Asset-Pack3-1536x1024_22
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 152
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 257ec134d87b94003ade3476e8f8f4d9
+      internalID: -885974538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Rocks-Pixel-Art-Asset-Pack3-1536x1024_23
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 30
+        width: 58
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb5cd34daf08e45579eb1de11a53539a
+      internalID: 2903551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Free-Rocks-Pixel-Art-Asset-Pack3-1536x1024_0: -185632094
+      Free-Rocks-Pixel-Art-Asset-Pack3-1536x1024_1: -1202882562
+      Free-Rocks-Pixel-Art-Asset-Pack3-1536x1024_10: -1368870620
+      Free-Rocks-Pixel-Art-Asset-Pack3-1536x1024_11: 87703897
+      Free-Rocks-Pixel-Art-Asset-Pack3-1536x1024_12: -1907970310
+      Free-Rocks-Pixel-Art-Asset-Pack3-1536x1024_13: -1070401975
+      Free-Rocks-Pixel-Art-Asset-Pack3-1536x1024_14: 784833441
+      Free-Rocks-Pixel-Art-Asset-Pack3-1536x1024_15: -335172885
+      Free-Rocks-Pixel-Art-Asset-Pack3-1536x1024_16: -2135353081
+      Free-Rocks-Pixel-Art-Asset-Pack3-1536x1024_17: -1209216648
+      Free-Rocks-Pixel-Art-Asset-Pack3-1536x1024_18: 1248019743
+      Free-Rocks-Pixel-Art-Asset-Pack3-1536x1024_19: -350864451
+      Free-Rocks-Pixel-Art-Asset-Pack3-1536x1024_2: 2111254514
+      Free-Rocks-Pixel-Art-Asset-Pack3-1536x1024_20: -1579571886
+      Free-Rocks-Pixel-Art-Asset-Pack3-1536x1024_21: 1086577431
+      Free-Rocks-Pixel-Art-Asset-Pack3-1536x1024_22: -885974538
+      Free-Rocks-Pixel-Art-Asset-Pack3-1536x1024_23: 2903551
+      Free-Rocks-Pixel-Art-Asset-Pack3-1536x1024_3: 561606997
+      Free-Rocks-Pixel-Art-Asset-Pack3-1536x1024_4: 1253241882
+      Free-Rocks-Pixel-Art-Asset-Pack3-1536x1024_5: 449123037
+      Free-Rocks-Pixel-Art-Asset-Pack3-1536x1024_6: 873679595
+      Free-Rocks-Pixel-Art-Asset-Pack3-1536x1024_7: -697687921
+      Free-Rocks-Pixel-Art-Asset-Pack3-1536x1024_8: 1101261033
+      Free-Rocks-Pixel-Art-Asset-Pack3-1536x1024_9: 643702098
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
