@@ -10,7 +10,6 @@ GameObject:
   m_Component:
   - component: {fileID: 1666743982556547353}
   - component: {fileID: 1666743982556547334}
-  - component: {fileID: 1666743982556547335}
   - component: {fileID: 1666743982556547332}
   - component: {fileID: 1666743982556547333}
   m_Layer: 0
@@ -74,7 +73,7 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 1847410037
+  m_SortingLayerID: 1345311231
   m_SortingLayer: 2
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: f919077556cf4425ba6ccc027f825329, type: 3}
@@ -88,25 +87,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!114 &1666743982556547335
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1666743982556547330}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 4d330ab19dda142b38b99a5e437f69ec, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  health: 6
-  lives: 3
-  flickerDuration: 0.1
-  isImmune: 0
-  immunityDuration: 1.5
-  coinsCollected: 0
-  GameOverSound: {fileID: 0}
 --- !u!114 &1666743982556547332
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -121,22 +101,23 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   moveSpeed: 5
   jumpHeight: 4
-  Spacebar: 0
-  L: 0
-  R: 0
+  Spacebar: 119
+  L: 97
+  R: 100
   groundCheck: {fileID: 0}
   groundCheckRadius: 0
   whatIsGround:
     serializedVersion: 2
-    m_Bits: 0
+    m_Bits: 64
   jump1: {fileID: 0}
   jump2: {fileID: 0}
   totalcoins: 0
   shot: {fileID: 0}
   Return: 0
   fire: {fileID: 0}
-  Bullet: {fileID: 0}
+  Bullet: {fileID: 443684511028730049, guid: cf650bcd1ef7d4103800a2afe5f754db, type: 3}
   isfacingright: 1
+  canShoot: 1
 --- !u!95 &1666743982556547333
 Animator:
   serializedVersion: 5

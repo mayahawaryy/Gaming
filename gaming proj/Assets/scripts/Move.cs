@@ -70,10 +70,9 @@ public class Move : MonoBehaviour
 
    public void Shoot()
     {
-        //if (canShoot) // Check if this player is allowed to shoot
-        //{
+       
             Instantiate(Bullet, fire.position, fire.rotation);
             AudioManager.instance.PlaySingle(shot);
-       // }
+      
     }
 }
