@@ -22,7 +22,7 @@ public class brick : MonoBehaviour
 
         if (other.gameObject.tag == "Player" && other.GetContact(0).point.y<transform.position.y){
             sr.sprite = explodedblock;
-            Object.Destroy(gameObject, .2f);
+            Object.Destroy(gameObject, 0.01f);
         }
     }
 }

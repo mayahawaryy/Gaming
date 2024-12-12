@@ -23,6 +23,9 @@ public class Move : MonoBehaviour
    public GameObject Bullet;
     public bool isfacingright = true;
  public bool canShoot = true;
+      
+
+
     void Start()
     {
       
@@ -53,7 +56,7 @@ public class Move : MonoBehaviour
         if (Input.GetKey(L))
         {
             GetComponent<Rigidbody2D>().velocity= new Vector2(-moveSpeed, GetComponent<Rigidbody2D>().velocity.y);
-
+ 
             
         }
         
@@ -70,10 +73,10 @@ public class Move : MonoBehaviour
 
    public void Shoot()
     {
-        //if (canShoot) // Check if this player is allowed to shoot
-        //{
+       
             Instantiate(Bullet, fire.position, fire.rotation);
             AudioManager.instance.PlaySingle(shot);
-       // }
+      
     }
+   
 }

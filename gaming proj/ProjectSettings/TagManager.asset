@@ -6,6 +6,8 @@ TagManager:
   tags:
   - Enemy
   - Wall
+  - Key
+  - Ladder
   layers:
   - Default
   - TransparentFX
@@ -48,4 +50,7 @@ TagManager:
     locked: 0
   - name: front
     uniqueID: 1345311231
+    locked: 0
+  - name: label
+    uniqueID: 468618185
     locked: 0

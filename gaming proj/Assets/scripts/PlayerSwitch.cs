@@ -34,15 +34,15 @@ public class PlayerSwitch : MonoBehaviour
         player2Move.enabled = !player1Active;
 
         // Update shooting ability based on active player
-        if (player1Active) 
-        {
-            player1Move.canShoot = true; 
-            player2Move.canShoot = false;
-        }
-        else 
-        {
-            player1Move.canShoot = false;
-            player2Move.canShoot = true;
-        }
+        //if (player1Active) 
+        //{
+            //player1Move.canShoot = true; 
+          ///  player2Move.canShoot = false;
+        //}
+        //else 
+       // {
+         //   player1Move.canShoot = false;
+         //   player2Move.canShoot = true;
+       // }
     }
 }
