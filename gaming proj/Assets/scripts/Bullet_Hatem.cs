@@ -1,9 +1,8 @@
-
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Bullet : MonoBehaviour
+public class Bullet_Hatem : MonoBehaviour
 {
     public float speed;
     public float timeremaining;
@@ -28,10 +27,15 @@ public class Bullet : MonoBehaviour
 
     }
 
-    void OnTriggerEnter2D(Collider2D other) {
-        if (other.tag=="Enemy"){
-            Destroy(other.gameObject);
-            Destroy(this.gameObject);
+   void OnTriggerEnter2D(Collider2D other) 
+    {
+        if (other.tag == "Enemy")
+        {
+            Destroy(other.gameObject); 
         }
-    } 
+        else if (other.tag == "Boss")
+        {
+            other.GetComponent<Boss>().TakeDamage(2); // Deal 2 damage to the Boss
+        }
+    }
 }

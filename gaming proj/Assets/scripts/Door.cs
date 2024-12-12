@@ -1,6 +1,9 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
+using UnityEngine.UI;
+using UnityEngine.EventSystems;
 
 public class Door : MonoBehaviour
 {
@@ -23,7 +26,8 @@ public class Door : MonoBehaviour
         if(other.gameObject.CompareTag("Key")){
 locked=false;
 a.SetTrigger("Open");
-
+SceneManager.LoadScene(5);
+//door code edit
 }
     }
 //
