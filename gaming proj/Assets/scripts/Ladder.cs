@@ -26,10 +26,10 @@ public class Ladder : MonoBehaviour
             rb.gravityScale = 0f;
             rb.velocity = new Vector2(rb.velocity.x, vertical * speed);
         }
-        else
-        {
-            rb.gravityScale = 4f;
-        }
+       else
+       {
+           rb.gravityScale = 1f;
+       }
     }
 
     private void OnTriggerEnter2D(Collider2D collision)

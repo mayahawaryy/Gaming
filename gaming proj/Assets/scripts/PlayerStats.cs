@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using UnityEngine.UI;
 
 public class PlayerStats : MonoBehaviour
 {
@@ -13,7 +14,8 @@ public class PlayerStats : MonoBehaviour
     private bool isImmune = false;
     private float immunityTime = 0f;
     public float immunityDuration = 1.5f;
-
+    public Image healthbar;
+    public int health;
     // Function to apply damage to both players
     public void TakeDamage(int damage)
     {
@@ -46,6 +48,9 @@ public class PlayerStats : MonoBehaviour
             // player1.GetComponent<PlayerHealthBar>().UpdateHealth(sharedHealth);
             // player2.GetComponent<PlayerHealthBar>().UpdateHealth(sharedHealth); 
         }
+        this.health=health-damage;
+        healthbar.fillAmount=this.health/3f;
+        
     }
 
     IEnumerator PlayerFlicker()
