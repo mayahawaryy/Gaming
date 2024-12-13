@@ -1,0 +1,651 @@
+fileFormatVersion: 2
+guid: 1da55dbc61b2c0e479b5ca13d6d4759c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Rayman Legends - Coral Decoration_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1549
+        width: 1024
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a66f688f79d60b54880ec3459ba65b65
+      internalID: -1084544228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Rayman Legends - Coral Decoration_1
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1325
+        width: 117
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08ea2206f0a253b49adf98ca6e3277ef
+      internalID: 1858695556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Rayman Legends - Coral Decoration_2
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1352
+        width: 96
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc7d37d3d9971b14a925f5a73f7e2ea3
+      internalID: 456380931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Rayman Legends - Coral Decoration_3
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1373
+        width: 109
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27e264088fe1ec04288651e7931cb95d
+      internalID: -779332527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Rayman Legends - Coral Decoration_4
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1416
+        width: 185
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b214543eed7dbb44b7afe908dbe5c3e
+      internalID: -1842526126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Rayman Legends - Coral Decoration_5
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 1438
+        width: 75
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31561166784761d4ebd8639486d33d5e
+      internalID: -1609013666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Rayman Legends - Coral Decoration_6
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 1431
+        width: 89
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b9c5fe0077e8af4b8bc4ccfa8612470
+      internalID: -1585838509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Rayman Legends - Coral Decoration_7
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 1058
+        width: 258
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ca9afd1e880d6d4ba86bcb57e5fa785
+      internalID: 1915161109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Rayman Legends - Coral Decoration_8
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1192
+        width: 335
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93f2456292c8f6846970c4e40a5fe415
+      internalID: -1496418206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Rayman Legends - Coral Decoration_9
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 1243
+        width: 405
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea577d0127f5b774295733df08c9a276
+      internalID: -492214898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Rayman Legends - Coral Decoration_10
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1009
+        width: 264
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6016cf9981a6fd42a65a8eb45b6c337
+      internalID: -1611467436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Rayman Legends - Coral Decoration_11
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 1101
+        width: 181
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8190b0ace7384dd41856312da75e7ffb
+      internalID: 808599097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Rayman Legends - Coral Decoration_12
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 907
+        width: 264
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3605645744032ba4894e1ca1282e3d93
+      internalID: 328553713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Rayman Legends - Coral Decoration_13
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 951
+        width: 21
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbc1ee82aaeb46440a493e26e9a4fd58
+      internalID: 327364515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Rayman Legends - Coral Decoration_14
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 938
+        width: 392
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55c3aa72297f10d459826c364509588c
+      internalID: 2083523486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Rayman Legends - Coral Decoration_15
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 951
+        width: 27
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8c1f865e5273014885c9ad8f7a89f96
+      internalID: 599040981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Rayman Legends - Coral Decoration_16
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 952
+        width: 12
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f899d6ecd05972f41bf7c4ccbc9463f4
+      internalID: -1080693680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Rayman Legends - Coral Decoration_17
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 952
+        width: 12
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae8e5dc014a7c974f9487e7e12afbb9c
+      internalID: 1655493209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Rayman Legends - Coral Decoration_18
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 948
+        width: 35
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb06bfda1cbe7b540b265eec47433a53
+      internalID: 1246739953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Rayman Legends - Coral Decoration_19
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 947
+        width: 21
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9f35b0a38edad7419b65092711711ad
+      internalID: -1217397286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Rayman Legends - Coral Decoration_20
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 677
+        width: 376
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39a37ff1dbc1cdc43a39e3d86f12d586
+      internalID: -838624357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Rayman Legends - Coral Decoration_21
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 556
+        width: 241
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dad6fd11a5292604db0c31b3f24ce8cc
+      internalID: 1286034797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Rayman Legends - Coral Decoration_22
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 582
+        width: 282
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbb37caad4484c643a72b4a6bd11fd11
+      internalID: -436455712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Rayman Legends - Coral Decoration_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1024
+        height: 525
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc557d565e478c64cabd04c3e30235d9
+      internalID: -1041295324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PC Computer - Rayman Legends - Coral Decoration_14: 2083523486
+      PC Computer - Rayman Legends - Coral Decoration_16: -1080693680
+      PC Computer - Rayman Legends - Coral Decoration_6: -1585838509
+      PC Computer - Rayman Legends - Coral Decoration_10: -1611467436
+      PC Computer - Rayman Legends - Coral Decoration_3: -779332527
+      PC Computer - Rayman Legends - Coral Decoration_9: -492214898
+      PC Computer - Rayman Legends - Coral Decoration_0: -1084544228
+      PC Computer - Rayman Legends - Coral Decoration_21: 1286034797
+      PC Computer - Rayman Legends - Coral Decoration_19: -1217397286
+      PC Computer - Rayman Legends - Coral Decoration_23: -1041295324
+      PC Computer - Rayman Legends - Coral Decoration_11: 808599097
+      PC Computer - Rayman Legends - Coral Decoration_12: 328553713
+      PC Computer - Rayman Legends - Coral Decoration_17: 1655493209
+      PC Computer - Rayman Legends - Coral Decoration_8: -1496418206
+      PC Computer - Rayman Legends - Coral Decoration_7: 1915161109
+      PC Computer - Rayman Legends - Coral Decoration_4: -1842526126
+      PC Computer - Rayman Legends - Coral Decoration_15: 599040981
+      PC Computer - Rayman Legends - Coral Decoration_22: -436455712
+      PC Computer - Rayman Legends - Coral Decoration_20: -838624357
+      PC Computer - Rayman Legends - Coral Decoration_13: 327364515
+      PC Computer - Rayman Legends - Coral Decoration_18: 1246739953
+      PC Computer - Rayman Legends - Coral Decoration_2: 456380931
+      PC Computer - Rayman Legends - Coral Decoration_1: 1858695556
+      PC Computer - Rayman Legends - Coral Decoration_5: -1609013666
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

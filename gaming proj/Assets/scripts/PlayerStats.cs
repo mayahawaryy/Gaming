@@ -31,7 +31,7 @@ public class PlayerStats : MonoBehaviour
                 {
                     Debug.Log("Both Players Dead");
                     // Handle game over (e.g., load game over scene)
-                    SceneManager.LoadScene(6); 
+                    SceneManager.LoadScene(8); 
                 }
                 else
                 {

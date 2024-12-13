@@ -1,0 +1,761 @@
+fileFormatVersion: 2
+guid: 0f9f4d7fad3f5c844a0bf72b4c7430f8
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC_Computer_-_Ecco_the_Dolphin_-_Prehistoric_Jellyfish-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 32
+        width: 51
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 222bad50f1be94c4f80d151dc7cc2ed6
+      internalID: -1416042774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Ecco_the_Dolphin_-_Prehistoric_Jellyfish-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 32
+        width: 55
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e44262f5ec0e47f41b533cf804d80f76
+      internalID: -1337225067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Ecco_the_Dolphin_-_Prehistoric_Jellyfish-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 32
+        width: 61
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00d5ccc95cb651948b7dcd334e26d6a7
+      internalID: -1844242815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Ecco_the_Dolphin_-_Prehistoric_Jellyfish-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 32
+        width: 65
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb800265b9fbeee4990b6d528f245340
+      internalID: -1450141070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Ecco_the_Dolphin_-_Prehistoric_Jellyfish-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 32
+        width: 51
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27f1fdefe916ea04b946138874753af0
+      internalID: -127793516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Ecco_the_Dolphin_-_Prehistoric_Jellyfish-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 32
+        width: 48
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb8ac493e868a804ea6b3a920e0e2dfc
+      internalID: -696659570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Ecco_the_Dolphin_-_Prehistoric_Jellyfish-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 10
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdbc9e486be035c49be68d377487c5b0
+      internalID: 404144511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Ecco_the_Dolphin_-_Prehistoric_Jellyfish-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 10
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eb6bc3a61c58ae41a7d98cff686b878
+      internalID: 107210580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Ecco_the_Dolphin_-_Prehistoric_Jellyfish-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 10
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52b068da4bd37a24fb447b2c9dd651b7
+      internalID: -2010871345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Ecco_the_Dolphin_-_Prehistoric_Jellyfish-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 10
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 761f47e7291c4b84fa8e340e377e2b4f
+      internalID: -594768255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Ecco_the_Dolphin_-_Prehistoric_Jellyfish-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 10
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aeae71a9e9823f40a0704fdc14802a0
+      internalID: -2140919848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Ecco_the_Dolphin_-_Prehistoric_Jellyfish-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 10
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2690826ce5f66cf4285ed1d37f338604
+      internalID: -1708091351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Ecco_the_Dolphin_-_Prehistoric_Jellyfish-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 10
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83ef7bf059b8bb549a5354d5f36e88a5
+      internalID: -1244900609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Ecco_the_Dolphin_-_Prehistoric_Jellyfish-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 9
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec5bf985a1698be479127bb4c44d7616
+      internalID: -1670708189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Ecco_the_Dolphin_-_Prehistoric_Jellyfish-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 10
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aa4d9d712f524f42b2e28f4480a1df7
+      internalID: -497872988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Ecco_the_Dolphin_-_Prehistoric_Jellyfish-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 10
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d708dbfec64acda439150b8c9f7940e5
+      internalID: -999953597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Ecco_the_Dolphin_-_Prehistoric_Jellyfish-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 10
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57f766e4dd178534c9225a53cb963a27
+      internalID: 147723036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Ecco_the_Dolphin_-_Prehistoric_Jellyfish-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 10
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10937ead2a3daba49bdd6760bd6c8028
+      internalID: 769628489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Ecco_the_Dolphin_-_Prehistoric_Jellyfish-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 10
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16801c85cede0584bbb82195fef5392a
+      internalID: 1949721041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Ecco_the_Dolphin_-_Prehistoric_Jellyfish-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 10
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5398c8847028b943852624c564e6b73
+      internalID: 600219820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Ecco_the_Dolphin_-_Prehistoric_Jellyfish-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 10
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 582ea6d6eb40aab4fbbc80f3a1689a11
+      internalID: 1376288326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Ecco_the_Dolphin_-_Prehistoric_Jellyfish-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 10
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29e637c5b21a02b4ca664998e2f5db57
+      internalID: -111606205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Ecco_the_Dolphin_-_Prehistoric_Jellyfish-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 10
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ccc3076f97a8664398ec1ef21b605d8
+      internalID: 1291271032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Ecco_the_Dolphin_-_Prehistoric_Jellyfish-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 10
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f96c3cd451f35d84db65f8b3ded1e29b
+      internalID: 1508964282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Ecco_the_Dolphin_-_Prehistoric_Jellyfish-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 10
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c32725ce306cbf40b4c54fbc048f3ee
+      internalID: -1093196340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Ecco_the_Dolphin_-_Prehistoric_Jellyfish-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 10
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3dbf5fb054a3e5498ad0de9abfeff28
+      internalID: -1309227124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Ecco_the_Dolphin_-_Prehistoric_Jellyfish-removebg-preview_26
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 10
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: facc2ca8e5df7614eaeea8a896b11e23
+      internalID: -1142479838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Ecco_the_Dolphin_-_Prehistoric_Jellyfish-removebg-preview_27
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 10
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e79d1028521e8544b060f03efc37a80
+      internalID: 1257669317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Ecco_the_Dolphin_-_Prehistoric_Jellyfish-removebg-preview_28
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 10
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdb6dab584c22274a95633508a640246
+      internalID: 835251358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PC_Computer_-_Ecco_the_Dolphin_-_Prehistoric_Jellyfish-removebg-preview_21: -111606205
+      PC_Computer_-_Ecco_the_Dolphin_-_Prehistoric_Jellyfish-removebg-preview_28: 835251358
+      PC_Computer_-_Ecco_the_Dolphin_-_Prehistoric_Jellyfish-removebg-preview_19: 600219820
+      PC_Computer_-_Ecco_the_Dolphin_-_Prehistoric_Jellyfish-removebg-preview_17: 769628489
+      PC_Computer_-_Ecco_the_Dolphin_-_Prehistoric_Jellyfish-removebg-preview_11: -1708091351
+      PC_Computer_-_Ecco_the_Dolphin_-_Prehistoric_Jellyfish-removebg-preview_14: -497872988
+      PC_Computer_-_Ecco_the_Dolphin_-_Prehistoric_Jellyfish-removebg-preview_27: 1257669317
+      PC_Computer_-_Ecco_the_Dolphin_-_Prehistoric_Jellyfish-removebg-preview_1: -1337225067
+      PC_Computer_-_Ecco_the_Dolphin_-_Prehistoric_Jellyfish-removebg-preview_22: 1291271032
+      PC_Computer_-_Ecco_the_Dolphin_-_Prehistoric_Jellyfish-removebg-preview_15: -999953597
+      PC_Computer_-_Ecco_the_Dolphin_-_Prehistoric_Jellyfish-removebg-preview_20: 1376288326
+      PC_Computer_-_Ecco_the_Dolphin_-_Prehistoric_Jellyfish-removebg-preview_2: -1844242815
+      PC_Computer_-_Ecco_the_Dolphin_-_Prehistoric_Jellyfish-removebg-preview_3: -1450141070
+      PC_Computer_-_Ecco_the_Dolphin_-_Prehistoric_Jellyfish-removebg-preview_5: -696659570
+      PC_Computer_-_Ecco_the_Dolphin_-_Prehistoric_Jellyfish-removebg-preview_6: 404144511
+      PC_Computer_-_Ecco_the_Dolphin_-_Prehistoric_Jellyfish-removebg-preview_23: 1508964282
+      PC_Computer_-_Ecco_the_Dolphin_-_Prehistoric_Jellyfish-removebg-preview_18: 1949721041
+      PC_Computer_-_Ecco_the_Dolphin_-_Prehistoric_Jellyfish-removebg-preview_26: -1142479838
+      PC_Computer_-_Ecco_the_Dolphin_-_Prehistoric_Jellyfish-removebg-preview_8: -2010871345
+      PC_Computer_-_Ecco_the_Dolphin_-_Prehistoric_Jellyfish-removebg-preview_9: -594768255
+      PC_Computer_-_Ecco_the_Dolphin_-_Prehistoric_Jellyfish-removebg-preview_4: -127793516
+      PC_Computer_-_Ecco_the_Dolphin_-_Prehistoric_Jellyfish-removebg-preview_16: 147723036
+      PC_Computer_-_Ecco_the_Dolphin_-_Prehistoric_Jellyfish-removebg-preview_12: -1244900609
+      PC_Computer_-_Ecco_the_Dolphin_-_Prehistoric_Jellyfish-removebg-preview_10: -2140919848
+      PC_Computer_-_Ecco_the_Dolphin_-_Prehistoric_Jellyfish-removebg-preview_25: -1309227124
+      PC_Computer_-_Ecco_the_Dolphin_-_Prehistoric_Jellyfish-removebg-preview_0: -1416042774
+      PC_Computer_-_Ecco_the_Dolphin_-_Prehistoric_Jellyfish-removebg-preview_24: -1093196340
+      PC_Computer_-_Ecco_the_Dolphin_-_Prehistoric_Jellyfish-removebg-preview_7: 107210580
+      PC_Computer_-_Ecco_the_Dolphin_-_Prehistoric_Jellyfish-removebg-preview_13: -1670708189
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

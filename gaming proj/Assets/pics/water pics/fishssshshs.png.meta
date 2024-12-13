@@ -1,0 +1,1685 @@
+fileFormatVersion: 2
+guid: 93ab64f7e14dd4348bb301f62ee8ac14
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC_Computer_-_Insaniquarium_Deluxe_-_Medium_Guppy-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 369
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 224b0de4959ca0341bc9edc747659645
+      internalID: 931303754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Insaniquarium_Deluxe_-_Medium_Guppy-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 369
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8969d73fa195fc64f962cc72c67b3275
+      internalID: -1425080435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Insaniquarium_Deluxe_-_Medium_Guppy-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 370
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e540915406fde62478a4b0ac8bff2066
+      internalID: -1766338067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Insaniquarium_Deluxe_-_Medium_Guppy-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 370
+        width: 39
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78c9ca766ce722643b684e1265fdd59e
+      internalID: 652524052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Insaniquarium_Deluxe_-_Medium_Guppy-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 370
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37aa2693d9faa7c4a945007ede15bec0
+      internalID: -1549739243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Insaniquarium_Deluxe_-_Medium_Guppy-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 370
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3949b6897691b584b8a723b5398b9002
+      internalID: -1014841844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Insaniquarium_Deluxe_-_Medium_Guppy-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 370
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7fe795f72ca4a34ebb26faae6563cf5
+      internalID: -1667847076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Insaniquarium_Deluxe_-_Medium_Guppy-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 370
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8f46f34b1cb7c243979e366e15ec632
+      internalID: -1866412148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Insaniquarium_Deluxe_-_Medium_Guppy-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 370
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8b10b5026012c148849581bdca2f015
+      internalID: 467777425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Insaniquarium_Deluxe_-_Medium_Guppy-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 369
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 276bc342e50f9c4439a3c00d24593c68
+      internalID: -33532439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Insaniquarium_Deluxe_-_Medium_Guppy-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 319
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d750f26c86318444687e944c0930df3f
+      internalID: 1342697135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Insaniquarium_Deluxe_-_Medium_Guppy-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 319
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40be6f908b4d06540af4aaba5e08fa5e
+      internalID: -600221591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Insaniquarium_Deluxe_-_Medium_Guppy-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 319
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 725e827423889664e8719900c1f0432a
+      internalID: -1685029405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Insaniquarium_Deluxe_-_Medium_Guppy-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 320
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d99048757a1add41ad6edd647bcb4ac
+      internalID: -1320120031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Insaniquarium_Deluxe_-_Medium_Guppy-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 320
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99f68e800e1907247b72b977f7ec6c01
+      internalID: -882443743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Insaniquarium_Deluxe_-_Medium_Guppy-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 320
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f7ec0adc488dee4198dfdc6c2346dad
+      internalID: -1368902354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Insaniquarium_Deluxe_-_Medium_Guppy-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 319
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6531e48aa29cf14e93a4a8ee590f9b6
+      internalID: -184035788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Insaniquarium_Deluxe_-_Medium_Guppy-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 319
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c002a2c80ec0fdf44a94e9686e1c2fef
+      internalID: 1341229870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Insaniquarium_Deluxe_-_Medium_Guppy-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 319
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c97b2adee5fdff74f896f54f67a56b86
+      internalID: 287195703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Insaniquarium_Deluxe_-_Medium_Guppy-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 319
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 340f39db1055cfa4b8275e53c90c4489
+      internalID: -1907960323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Insaniquarium_Deluxe_-_Medium_Guppy-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 266
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6057d8ce62b0c254787534a3129e786a
+      internalID: 557866786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Insaniquarium_Deluxe_-_Medium_Guppy-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 266
+        width: 41
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8af516f3a8504db449b26ddc2dc053b8
+      internalID: -798152988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Insaniquarium_Deluxe_-_Medium_Guppy-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 265
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16fcaa8ddfe164a48bd734f6b975e245
+      internalID: -374221485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Insaniquarium_Deluxe_-_Medium_Guppy-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 265
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fac90f9c1b61ce4f9509fef5208853b
+      internalID: -1949690654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Insaniquarium_Deluxe_-_Medium_Guppy-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 265
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd9646667be76cd4b83815eb3fa7ddf7
+      internalID: -1257733024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Insaniquarium_Deluxe_-_Medium_Guppy-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 265
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7e006fc5050d1144b022ed049bcbdc2
+      internalID: -1860936807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Insaniquarium_Deluxe_-_Medium_Guppy-removebg-preview_26
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 265
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 495d478794853c04a9b29f4e1155d278
+      internalID: -311812282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Insaniquarium_Deluxe_-_Medium_Guppy-removebg-preview_27
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 265
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a127c6f171ecc994995e76bebc559827
+      internalID: 1082916979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Insaniquarium_Deluxe_-_Medium_Guppy-removebg-preview_28
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 265
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e32bf00bbb075c847897b8916dfaa65f
+      internalID: 1375484464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Insaniquarium_Deluxe_-_Medium_Guppy-removebg-preview_29
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 266
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dd13f9febb03ec469e1e94e5714567f
+      internalID: -1768976152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Insaniquarium_Deluxe_-_Medium_Guppy-removebg-preview_30
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 216
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4810981d276feaa41a21da0ccc6d759f
+      internalID: 1592923567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Insaniquarium_Deluxe_-_Medium_Guppy-removebg-preview_31
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 216
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15d5bdc924cd3e74dbfb8f380ddc9f59
+      internalID: 1959924550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Insaniquarium_Deluxe_-_Medium_Guppy-removebg-preview_32
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 216
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e786b97af1f0e3d4db5d9cae9b8bd6d6
+      internalID: 795324289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Insaniquarium_Deluxe_-_Medium_Guppy-removebg-preview_33
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 218
+        width: 41
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 414a865149c60ac419a75e20532644e0
+      internalID: 588738936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Insaniquarium_Deluxe_-_Medium_Guppy-removebg-preview_34
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 223
+        width: 42
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3c3e9b41636d504382d3188a025b4b1
+      internalID: -1368815969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Insaniquarium_Deluxe_-_Medium_Guppy-removebg-preview_35
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 227
+        width: 42
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13b0924a4fcefb7428e2f7647ed2d673
+      internalID: 1993372780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Insaniquarium_Deluxe_-_Medium_Guppy-removebg-preview_36
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 224
+        width: 41
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02ab9e6582eb28341821633ca51c75b3
+      internalID: 995157647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Insaniquarium_Deluxe_-_Medium_Guppy-removebg-preview_37
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 219
+        width: 41
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37611f85000daee4680a5ea5c2f321c3
+      internalID: 334342181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Insaniquarium_Deluxe_-_Medium_Guppy-removebg-preview_38
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 218
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c975a40a12b7a3f4e8442d2f993ac293
+      internalID: -1491515358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Insaniquarium_Deluxe_-_Medium_Guppy-removebg-preview_39
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 218
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f125b047f28a432478c9f26b705af572
+      internalID: -499780728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Insaniquarium_Deluxe_-_Medium_Guppy-removebg-preview_40
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 164
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edfefd9533f063a418b54937b7eb4c01
+      internalID: 1918791755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Insaniquarium_Deluxe_-_Medium_Guppy-removebg-preview_41
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 164
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 061f495d8f8bbc644a9286e0e875aac7
+      internalID: -1231159454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Insaniquarium_Deluxe_-_Medium_Guppy-removebg-preview_42
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 165
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcab28016ae22e84abbd128476a12305
+      internalID: -356966910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Insaniquarium_Deluxe_-_Medium_Guppy-removebg-preview_43
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 165
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af9ec77a4aba25a43bdaa6027a96cfc0
+      internalID: 158972398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Insaniquarium_Deluxe_-_Medium_Guppy-removebg-preview_44
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 166
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 733234e836229b441bf958ae50507244
+      internalID: -1894393632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Insaniquarium_Deluxe_-_Medium_Guppy-removebg-preview_45
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 166
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bc8f8d86440fdb4f89a5e85d649d6fb
+      internalID: -172693690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Insaniquarium_Deluxe_-_Medium_Guppy-removebg-preview_46
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 166
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f037c0c70977b314487f17bc8e6a844a
+      internalID: 1023865471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Insaniquarium_Deluxe_-_Medium_Guppy-removebg-preview_47
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 165
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31961f3c5db16d545b0f0f2da525e251
+      internalID: -1980387431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Insaniquarium_Deluxe_-_Medium_Guppy-removebg-preview_48
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 165
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2965bff05e1e4441b74b0d4b398de29
+      internalID: -310560814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Insaniquarium_Deluxe_-_Medium_Guppy-removebg-preview_49
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 164
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be74a37e51ca25c47ada01263d00d45d
+      internalID: 1688417474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Insaniquarium_Deluxe_-_Medium_Guppy-removebg-preview_50
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 113
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd38788be950d5a4f97e3c117e462047
+      internalID: 301702259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Insaniquarium_Deluxe_-_Medium_Guppy-removebg-preview_51
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 113
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee6b8853143ad85448c6421a6915e837
+      internalID: -1324551243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Insaniquarium_Deluxe_-_Medium_Guppy-removebg-preview_52
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 113
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdcd7f6dd141f854ba42d44f34f623b5
+      internalID: 909853178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Insaniquarium_Deluxe_-_Medium_Guppy-removebg-preview_53
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 113
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c19090eb689b11340b01ff5731443abc
+      internalID: -1409223111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Insaniquarium_Deluxe_-_Medium_Guppy-removebg-preview_54
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 113
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 890eb2612c5b00a4fba1cef7f28b577e
+      internalID: -1327167610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Insaniquarium_Deluxe_-_Medium_Guppy-removebg-preview_55
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 113
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 857891e2bd6e57541a4a38adda5e7fab
+      internalID: -374045053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Insaniquarium_Deluxe_-_Medium_Guppy-removebg-preview_56
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 113
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fda3eebd4184504781512c99a3d0226
+      internalID: -60903825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Insaniquarium_Deluxe_-_Medium_Guppy-removebg-preview_57
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 113
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46339c2188343bc468a6960082dfd0cc
+      internalID: 439706954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Insaniquarium_Deluxe_-_Medium_Guppy-removebg-preview_58
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 113
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59cf9e0adfe7a284585efacf7773fd63
+      internalID: 1205822930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Insaniquarium_Deluxe_-_Medium_Guppy-removebg-preview_59
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 113
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5f625670ba2b6d4cb443ff6970c834f
+      internalID: 554698039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Insaniquarium_Deluxe_-_Medium_Guppy-removebg-preview_60
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 64
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd0da04090505e147832082293e8b663
+      internalID: -359966569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Insaniquarium_Deluxe_-_Medium_Guppy-removebg-preview_61
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 64
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 773eb1c805f6ab14da23d2d209e7c056
+      internalID: 307565594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Insaniquarium_Deluxe_-_Medium_Guppy-removebg-preview_62
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 64
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab0a29fbe3a841f4d8d501a07b8e0dc2
+      internalID: 1124054826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Insaniquarium_Deluxe_-_Medium_Guppy-removebg-preview_63
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 65
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a17b4f46809396546b27f0bd5c276a7b
+      internalID: -1744431087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Insaniquarium_Deluxe_-_Medium_Guppy-removebg-preview_64
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 65
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd135fd3b77f7044c87a8a7b2d3959fb
+      internalID: -205998106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Insaniquarium_Deluxe_-_Medium_Guppy-removebg-preview_65
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 64
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98aa2f47839fbfb45a573b30f3f6e877
+      internalID: 439734371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Insaniquarium_Deluxe_-_Medium_Guppy-removebg-preview_66
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 64
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b250901783e24b42b8df41ee0bbd370
+      internalID: 2107098065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Insaniquarium_Deluxe_-_Medium_Guppy-removebg-preview_67
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 63
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cb32933f5f4cb34f8ce5563b6282776
+      internalID: 413929600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Insaniquarium_Deluxe_-_Medium_Guppy-removebg-preview_68
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 64
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96f332f46d608984aa040ad8842a3fb6
+      internalID: 1741549921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Insaniquarium_Deluxe_-_Medium_Guppy-removebg-preview_69
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 64
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f18cea71c09d987499b78ec7a5272399
+      internalID: 946345560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Insaniquarium_Deluxe_-_Medium_Guppy-removebg-preview_70
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 10
+        width: 134
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6d2f056d0f676244b10330ead6d1396
+      internalID: 1955720623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PC_Computer_-_Insaniquarium_Deluxe_-_Medium_Guppy-removebg-preview_16: -184035788
+      PC_Computer_-_Insaniquarium_Deluxe_-_Medium_Guppy-removebg-preview_5: -1014841844
+      PC_Computer_-_Insaniquarium_Deluxe_-_Medium_Guppy-removebg-preview_41: -1231159454
+      PC_Computer_-_Insaniquarium_Deluxe_-_Medium_Guppy-removebg-preview_51: -1324551243
+      PC_Computer_-_Insaniquarium_Deluxe_-_Medium_Guppy-removebg-preview_66: 2107098065
+      PC_Computer_-_Insaniquarium_Deluxe_-_Medium_Guppy-removebg-preview_12: -1685029405
+      PC_Computer_-_Insaniquarium_Deluxe_-_Medium_Guppy-removebg-preview_43: 158972398
+      PC_Computer_-_Insaniquarium_Deluxe_-_Medium_Guppy-removebg-preview_9: -33532439
+      PC_Computer_-_Insaniquarium_Deluxe_-_Medium_Guppy-removebg-preview_8: 467777425
+      PC_Computer_-_Insaniquarium_Deluxe_-_Medium_Guppy-removebg-preview_22: -374221485
+      PC_Computer_-_Insaniquarium_Deluxe_-_Medium_Guppy-removebg-preview_36: 995157647
+      PC_Computer_-_Insaniquarium_Deluxe_-_Medium_Guppy-removebg-preview_39: -499780728
+      PC_Computer_-_Insaniquarium_Deluxe_-_Medium_Guppy-removebg-preview_28: 1375484464
+      PC_Computer_-_Insaniquarium_Deluxe_-_Medium_Guppy-removebg-preview_11: -600221591
+      PC_Computer_-_Insaniquarium_Deluxe_-_Medium_Guppy-removebg-preview_14: -882443743
+      PC_Computer_-_Insaniquarium_Deluxe_-_Medium_Guppy-removebg-preview_10: 1342697135
+      PC_Computer_-_Insaniquarium_Deluxe_-_Medium_Guppy-removebg-preview_67: 413929600
+      PC_Computer_-_Insaniquarium_Deluxe_-_Medium_Guppy-removebg-preview_40: 1918791755
+      PC_Computer_-_Insaniquarium_Deluxe_-_Medium_Guppy-removebg-preview_34: -1368815969
+      PC_Computer_-_Insaniquarium_Deluxe_-_Medium_Guppy-removebg-preview_7: -1866412148
+      PC_Computer_-_Insaniquarium_Deluxe_-_Medium_Guppy-removebg-preview_44: -1894393632
+      PC_Computer_-_Insaniquarium_Deluxe_-_Medium_Guppy-removebg-preview_63: -1744431087
+      PC_Computer_-_Insaniquarium_Deluxe_-_Medium_Guppy-removebg-preview_47: -1980387431
+      PC_Computer_-_Insaniquarium_Deluxe_-_Medium_Guppy-removebg-preview_57: 439706954
+      PC_Computer_-_Insaniquarium_Deluxe_-_Medium_Guppy-removebg-preview_29: -1768976152
+      PC_Computer_-_Insaniquarium_Deluxe_-_Medium_Guppy-removebg-preview_58: 1205822930
+      PC_Computer_-_Insaniquarium_Deluxe_-_Medium_Guppy-removebg-preview_61: 307565594
+      PC_Computer_-_Insaniquarium_Deluxe_-_Medium_Guppy-removebg-preview_24: -1257733024
+      PC_Computer_-_Insaniquarium_Deluxe_-_Medium_Guppy-removebg-preview_42: -356966910
+      PC_Computer_-_Insaniquarium_Deluxe_-_Medium_Guppy-removebg-preview_21: -798152988
+      PC_Computer_-_Insaniquarium_Deluxe_-_Medium_Guppy-removebg-preview_38: -1491515358
+      PC_Computer_-_Insaniquarium_Deluxe_-_Medium_Guppy-removebg-preview_27: 1082916979
+      PC_Computer_-_Insaniquarium_Deluxe_-_Medium_Guppy-removebg-preview_37: 334342181
+      PC_Computer_-_Insaniquarium_Deluxe_-_Medium_Guppy-removebg-preview_1: -1425080435
+      PC_Computer_-_Insaniquarium_Deluxe_-_Medium_Guppy-removebg-preview_31: 1959924550
+      PC_Computer_-_Insaniquarium_Deluxe_-_Medium_Guppy-removebg-preview_54: -1327167610
+      PC_Computer_-_Insaniquarium_Deluxe_-_Medium_Guppy-removebg-preview_45: -172693690
+      PC_Computer_-_Insaniquarium_Deluxe_-_Medium_Guppy-removebg-preview_18: 287195703
+      PC_Computer_-_Insaniquarium_Deluxe_-_Medium_Guppy-removebg-preview_65: 439734371
+      PC_Computer_-_Insaniquarium_Deluxe_-_Medium_Guppy-removebg-preview_19: -1907960323
+      PC_Computer_-_Insaniquarium_Deluxe_-_Medium_Guppy-removebg-preview_49: 1688417474
+      PC_Computer_-_Insaniquarium_Deluxe_-_Medium_Guppy-removebg-preview_64: -205998106
+      PC_Computer_-_Insaniquarium_Deluxe_-_Medium_Guppy-removebg-preview_32: 795324289
+      PC_Computer_-_Insaniquarium_Deluxe_-_Medium_Guppy-removebg-preview_6: -1667847076
+      PC_Computer_-_Insaniquarium_Deluxe_-_Medium_Guppy-removebg-preview_3: 652524052
+      PC_Computer_-_Insaniquarium_Deluxe_-_Medium_Guppy-removebg-preview_4: -1549739243
+      PC_Computer_-_Insaniquarium_Deluxe_-_Medium_Guppy-removebg-preview_25: -1860936807
+      PC_Computer_-_Insaniquarium_Deluxe_-_Medium_Guppy-removebg-preview_50: 301702259
+      PC_Computer_-_Insaniquarium_Deluxe_-_Medium_Guppy-removebg-preview_56: -60903825
+      PC_Computer_-_Insaniquarium_Deluxe_-_Medium_Guppy-removebg-preview_23: -1949690654
+      PC_Computer_-_Insaniquarium_Deluxe_-_Medium_Guppy-removebg-preview_20: 557866786
+      PC_Computer_-_Insaniquarium_Deluxe_-_Medium_Guppy-removebg-preview_60: -359966569
+      PC_Computer_-_Insaniquarium_Deluxe_-_Medium_Guppy-removebg-preview_52: 909853178
+      PC_Computer_-_Insaniquarium_Deluxe_-_Medium_Guppy-removebg-preview_17: 1341229870
+      PC_Computer_-_Insaniquarium_Deluxe_-_Medium_Guppy-removebg-preview_46: 1023865471
+      PC_Computer_-_Insaniquarium_Deluxe_-_Medium_Guppy-removebg-preview_70: 1955720623
+      PC_Computer_-_Insaniquarium_Deluxe_-_Medium_Guppy-removebg-preview_55: -374045053
+      PC_Computer_-_Insaniquarium_Deluxe_-_Medium_Guppy-removebg-preview_59: 554698039
+      PC_Computer_-_Insaniquarium_Deluxe_-_Medium_Guppy-removebg-preview_2: -1766338067
+      PC_Computer_-_Insaniquarium_Deluxe_-_Medium_Guppy-removebg-preview_33: 588738936
+      PC_Computer_-_Insaniquarium_Deluxe_-_Medium_Guppy-removebg-preview_62: 1124054826
+      PC_Computer_-_Insaniquarium_Deluxe_-_Medium_Guppy-removebg-preview_68: 1741549921
+      PC_Computer_-_Insaniquarium_Deluxe_-_Medium_Guppy-removebg-preview_15: -1368902354
+      PC_Computer_-_Insaniquarium_Deluxe_-_Medium_Guppy-removebg-preview_53: -1409223111
+      PC_Computer_-_Insaniquarium_Deluxe_-_Medium_Guppy-removebg-preview_26: -311812282
+      PC_Computer_-_Insaniquarium_Deluxe_-_Medium_Guppy-removebg-preview_13: -1320120031
+      PC_Computer_-_Insaniquarium_Deluxe_-_Medium_Guppy-removebg-preview_48: -310560814
+      PC_Computer_-_Insaniquarium_Deluxe_-_Medium_Guppy-removebg-preview_69: 946345560
+      PC_Computer_-_Insaniquarium_Deluxe_-_Medium_Guppy-removebg-preview_30: 1592923567
+      PC_Computer_-_Insaniquarium_Deluxe_-_Medium_Guppy-removebg-preview_0: 931303754
+      PC_Computer_-_Insaniquarium_Deluxe_-_Medium_Guppy-removebg-preview_35: 1993372780
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

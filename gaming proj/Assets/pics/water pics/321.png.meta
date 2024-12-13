@@ -1,0 +1,453 @@
+fileFormatVersion: 2
+guid: f1b1da35859166a479195e4dcef92887
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: set-summer-beach-objects-cartoon-characters_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 788
+        width: 249
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2ec60c86a4cd2146b77c0177586d4ab
+      internalID: -1513777764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-summer-beach-objects-cartoon-characters_1
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 766
+        width: 554
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d83b88098b7f8084a901dd8b14d0960c
+      internalID: -239549990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-summer-beach-objects-cartoon-characters_2
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 766
+        width: 444
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 771284bc564f1b94da7c757d8a56430f
+      internalID: 688223063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-summer-beach-objects-cartoon-characters_3
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 766
+        width: 379
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43d1daec1aeddbd4592d1ad5540fe1f3
+      internalID: -1836248575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-summer-beach-objects-cartoon-characters_4
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 400
+        width: 133
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cae1a8c71078fa040bf94c6f2503155c
+      internalID: -205473465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-summer-beach-objects-cartoon-characters_5
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 400
+        width: 586
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 777a4d3f144af524f88af63285460698
+      internalID: -1385267791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-summer-beach-objects-cartoon-characters_6
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 400
+        width: 372
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b6ea450401043d42b9699f55373d7a8
+      internalID: -1560403566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-summer-beach-objects-cartoon-characters_7
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 399
+        width: 351
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fadbf3e15b9245f46ace9140fafadc5b
+      internalID: -2070482505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-summer-beach-objects-cartoon-characters_8
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 399
+        width: 339
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f16237e75113cf84f83caa629ed80bbb
+      internalID: 463373220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-summer-beach-objects-cartoon-characters_9
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 32
+        width: 327
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bb58d10407650a4a91fc165132ba9cf
+      internalID: 1150045583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-summer-beach-objects-cartoon-characters_10
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 32
+        width: 352
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8ddd7848a336534cbf86a8a4f5445ae
+      internalID: -950445690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-summer-beach-objects-cartoon-characters_11
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 33
+        width: 357
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60c97daf61a5f0744855f1df0e18527b
+      internalID: 159952172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-summer-beach-objects-cartoon-characters_12
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 33
+        width: 222
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 556665aabbafde249a06403676a75106
+      internalID: 589515688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-summer-beach-objects-cartoon-characters_13
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 33
+        width: 317
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cb0913a6c76f7a4da0416ccc1734aaf
+      internalID: -470090981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-summer-beach-objects-cartoon-characters_14
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 33
+        width: 324
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 477e7c039daebf242833297fef207244
+      internalID: -432221151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      set-summer-beach-objects-cartoon-characters_6: -1560403566
+      set-summer-beach-objects-cartoon-characters_13: -470090981
+      set-summer-beach-objects-cartoon-characters_9: 1150045583
+      set-summer-beach-objects-cartoon-characters_3: -1836248575
+      set-summer-beach-objects-cartoon-characters_14: -432221151
+      set-summer-beach-objects-cartoon-characters_2: 688223063
+      set-summer-beach-objects-cartoon-characters_5: -1385267791
+      set-summer-beach-objects-cartoon-characters_1: -239549990
+      set-summer-beach-objects-cartoon-characters_10: -950445690
+      set-summer-beach-objects-cartoon-characters_8: 463373220
+      set-summer-beach-objects-cartoon-characters_4: -205473465
+      set-summer-beach-objects-cartoon-characters_7: -2070482505
+      set-summer-beach-objects-cartoon-characters_11: 159952172
+      set-summer-beach-objects-cartoon-characters_0: -1513777764
+      set-summer-beach-objects-cartoon-characters_12: 589515688
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1905 @@
+fileFormatVersion: 2
+guid: e5e4603d54acc2b4688338225d59e2c1
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PlayStation_2_-_Tales_of_Destiny_Directors_Cut_-_Starfish-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 475
+        width: 4
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 730a4cc82235c58448c27ddd0f6378ca
+      internalID: -1820901523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_2_-_Tales_of_Destiny_Directors_Cut_-_Starfish-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 473
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bb48cf90c5f96e4a95809c2c58cb19a
+      internalID: -1387475077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_2_-_Tales_of_Destiny_Directors_Cut_-_Starfish-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 473
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b51884ea1af008d4080ffc462a5a49fa
+      internalID: 17526860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_2_-_Tales_of_Destiny_Directors_Cut_-_Starfish-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 466
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ca81c98bf08fbd4fb8b065e79a1e1e4
+      internalID: 904822170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_2_-_Tales_of_Destiny_Directors_Cut_-_Starfish-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 473
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 022c823ebe6de4946aa3dc54d1eab6fc
+      internalID: 783268424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_2_-_Tales_of_Destiny_Directors_Cut_-_Starfish-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffeeb383fe7429e468abb6980413c48d
+      internalID: 182006818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_2_-_Tales_of_Destiny_Directors_Cut_-_Starfish-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 432
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 443101694755d244792e4fcbee71db6f
+      internalID: -1711229243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_2_-_Tales_of_Destiny_Directors_Cut_-_Starfish-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 465
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52558c87b1c6026479545b9c2bccdc8c
+      internalID: -929293997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_2_-_Tales_of_Destiny_Directors_Cut_-_Starfish-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 428
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af3fce5cb111cd541b1130edffe78a75
+      internalID: -1916400469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_2_-_Tales_of_Destiny_Directors_Cut_-_Starfish-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 433
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8d61024d42a6554c95252d56f65946e
+      internalID: 1681872049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_2_-_Tales_of_Destiny_Directors_Cut_-_Starfish-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 433
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eff6f06f924b0734da920e43b60b5f2c
+      internalID: 2147397053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_2_-_Tales_of_Destiny_Directors_Cut_-_Starfish-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 431
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d43bdf059dbc244482610d4b8f32e6d
+      internalID: -921593299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_2_-_Tales_of_Destiny_Directors_Cut_-_Starfish-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 434
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 250f8148c5b3e5840bc1294f469bea0e
+      internalID: -103030894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_2_-_Tales_of_Destiny_Directors_Cut_-_Starfish-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 436
+        width: 4
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bda1f68cc29f00746a0ec9875db34ffb
+      internalID: -1345699032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_2_-_Tales_of_Destiny_Directors_Cut_-_Starfish-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 414
+        width: 4
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e96565f08819a494c82cb5272f8b1dc9
+      internalID: -2080588672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_2_-_Tales_of_Destiny_Directors_Cut_-_Starfish-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 427
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 997dea862b5330e4ba9479d048a43fcd
+      internalID: -2067460188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_2_-_Tales_of_Destiny_Directors_Cut_-_Starfish-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 427
+        width: 14
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afddb5deb88bd144dad8176d334443e4
+      internalID: -625277157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_2_-_Tales_of_Destiny_Directors_Cut_-_Starfish-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 424
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74bdc66396b0e8b4bb108a71d5c4619b
+      internalID: -1286508960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_2_-_Tales_of_Destiny_Directors_Cut_-_Starfish-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 387
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9315b8e1a77f4444a35cea885e20f52
+      internalID: -1819689740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_2_-_Tales_of_Destiny_Directors_Cut_-_Starfish-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 387
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 309ffa6ec83957948bb3d9168195716a
+      internalID: -730742861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_2_-_Tales_of_Destiny_Directors_Cut_-_Starfish-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 388
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df687e21a3dfc6c41b6ec15e37e942c6
+      internalID: 119289805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_2_-_Tales_of_Destiny_Directors_Cut_-_Starfish-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 387
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d31c3a38b921d6349ad290d90a01a7f9
+      internalID: -1628404169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_2_-_Tales_of_Destiny_Directors_Cut_-_Starfish-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 388
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bd7d0e4c6ce2de44b15ce5a7c45b57b
+      internalID: -608257257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_2_-_Tales_of_Destiny_Directors_Cut_-_Starfish-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 388
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 811deafff32494247bf679443ccc4ccd
+      internalID: -1158052673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_2_-_Tales_of_Destiny_Directors_Cut_-_Starfish-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 389
+        width: 38
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4221377e7483b049bc2b4d7f51fd7f7
+      internalID: 1584087733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_2_-_Tales_of_Destiny_Directors_Cut_-_Starfish-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 347
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3296452efe1c46a4ea5a791f036426a5
+      internalID: -407107618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_2_-_Tales_of_Destiny_Directors_Cut_-_Starfish-removebg-preview_26
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 350
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 216abc17cb46f6647a13758df58809e0
+      internalID: -1420313222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_2_-_Tales_of_Destiny_Directors_Cut_-_Starfish-removebg-preview_27
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 347
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e88cf7ee1c81ee42ad3720fc68732a9
+      internalID: 190774048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_2_-_Tales_of_Destiny_Directors_Cut_-_Starfish-removebg-preview_28
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 347
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9fd82275226a194da4547b8e014a8d7
+      internalID: 882802307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_2_-_Tales_of_Destiny_Directors_Cut_-_Starfish-removebg-preview_29
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 347
+        width: 43
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: add787511a80606419923148151001e7
+      internalID: -508789985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_2_-_Tales_of_Destiny_Directors_Cut_-_Starfish-removebg-preview_30
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 340
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd1408172684a014193061ee8f80c4af
+      internalID: -205312957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_2_-_Tales_of_Destiny_Directors_Cut_-_Starfish-removebg-preview_31
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 368
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9859e52afd925a40ba9f70f60f168cd
+      internalID: -758858585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_2_-_Tales_of_Destiny_Directors_Cut_-_Starfish-removebg-preview_32
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 367
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f78cbe81f3706c4683de3b37ce14410
+      internalID: -2029432419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_2_-_Tales_of_Destiny_Directors_Cut_-_Starfish-removebg-preview_33
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 367
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9aba5a3f165522409018ad0f9fd47d6
+      internalID: -962223229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_2_-_Tales_of_Destiny_Directors_Cut_-_Starfish-removebg-preview_34
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 353
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99ea6f19f65a5bf4ea2fb32fa990b2fc
+      internalID: 1978096518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_2_-_Tales_of_Destiny_Directors_Cut_-_Starfish-removebg-preview_35
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 355
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbb4565fa85a52246aa34e38cc7b634a
+      internalID: -1534797743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_2_-_Tales_of_Destiny_Directors_Cut_-_Starfish-removebg-preview_36
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 355
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb5de1f59b169e4408351caa1f8a4472
+      internalID: -152538106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_2_-_Tales_of_Destiny_Directors_Cut_-_Starfish-removebg-preview_37
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 308
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75692e52893e8aa4a822cf27c6a93fd7
+      internalID: 548856789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_2_-_Tales_of_Destiny_Directors_Cut_-_Starfish-removebg-preview_38
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 306
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37aad71c32c4d3c43af49a89f3a73847
+      internalID: -1592412124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_2_-_Tales_of_Destiny_Directors_Cut_-_Starfish-removebg-preview_39
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 305
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41a6423046f780e49affaf2b738d97eb
+      internalID: -285775358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_2_-_Tales_of_Destiny_Directors_Cut_-_Starfish-removebg-preview_40
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 308
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c288107adfb33474d8467ef7b500b348
+      internalID: -1056296037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_2_-_Tales_of_Destiny_Directors_Cut_-_Starfish-removebg-preview_41
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 308
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d8208cbbdde74b4abfdec3ddbed0b09
+      internalID: 234641971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_2_-_Tales_of_Destiny_Directors_Cut_-_Starfish-removebg-preview_42
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 270
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e577fb38c64d3de44bb70e2296ff2fad
+      internalID: 603363703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_2_-_Tales_of_Destiny_Directors_Cut_-_Starfish-removebg-preview_43
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 266
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05ae710265ffc454c8bc4c3a2c8ff90a
+      internalID: 1936872920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_2_-_Tales_of_Destiny_Directors_Cut_-_Starfish-removebg-preview_44
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 264
+        width: 36
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f54431441989e534ba8b9b8e005faf7e
+      internalID: -2064089283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_2_-_Tales_of_Destiny_Directors_Cut_-_Starfish-removebg-preview_45
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 268
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a662d42e45e1194496542618a2fcd31
+      internalID: 633024678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_2_-_Tales_of_Destiny_Directors_Cut_-_Starfish-removebg-preview_46
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 265
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ee87564dfd554540a068af13e09d41a
+      internalID: 2081268582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_2_-_Tales_of_Destiny_Directors_Cut_-_Starfish-removebg-preview_47
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 227
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb937934465337244b24218d25775ef8
+      internalID: 838928385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_2_-_Tales_of_Destiny_Directors_Cut_-_Starfish-removebg-preview_48
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 223
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e2bdd25cd110742ab434c4ab5d28e2
+      internalID: 1379834078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_2_-_Tales_of_Destiny_Directors_Cut_-_Starfish-removebg-preview_49
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 222
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efb6932e979a81e4e9daf77f0eb65c39
+      internalID: 2032259529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_2_-_Tales_of_Destiny_Directors_Cut_-_Starfish-removebg-preview_50
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 224
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90099a8271e1fbe4bb746a781eeaaf20
+      internalID: 1198582700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_2_-_Tales_of_Destiny_Directors_Cut_-_Starfish-removebg-preview_51
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 185
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 867c757d094765546865f95f46a232d6
+      internalID: 462866690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_2_-_Tales_of_Destiny_Directors_Cut_-_Starfish-removebg-preview_52
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 182
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 993296b57ee6ad84983270fd6034ae29
+      internalID: 368945297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_2_-_Tales_of_Destiny_Directors_Cut_-_Starfish-removebg-preview_53
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 182
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63a8bea415d0d2a4e98e87422bb58b5c
+      internalID: -241163477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_2_-_Tales_of_Destiny_Directors_Cut_-_Starfish-removebg-preview_54
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 183
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0e93e276d7aade4bab3ad402397e762
+      internalID: -1575774006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_2_-_Tales_of_Destiny_Directors_Cut_-_Starfish-removebg-preview_55
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 182
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 007171f4881306e4fad2a04e237b34df
+      internalID: 915690537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_2_-_Tales_of_Destiny_Directors_Cut_-_Starfish-removebg-preview_56
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 182
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 403897a5369ce7f4fbbd49e07930f098
+      internalID: -179778349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_2_-_Tales_of_Destiny_Directors_Cut_-_Starfish-removebg-preview_57
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 140
+        width: 41
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d1ac4c1615b22d49807fe83df07fbe0
+      internalID: 1378082473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_2_-_Tales_of_Destiny_Directors_Cut_-_Starfish-removebg-preview_58
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 142
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ad6192cce421014b84d2f7cbfe668f0
+      internalID: 1816692646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_2_-_Tales_of_Destiny_Directors_Cut_-_Starfish-removebg-preview_59
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 143
+        width: 47
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 355356b3376f05845997139a24442d7b
+      internalID: -1275533009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_2_-_Tales_of_Destiny_Directors_Cut_-_Starfish-removebg-preview_60
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 140
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eba74d8f5b4a5384f9cf979a0f91a3fd
+      internalID: 1108599096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_2_-_Tales_of_Destiny_Directors_Cut_-_Starfish-removebg-preview_61
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 103
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 574025bea72b69547ae4b45972d8f984
+      internalID: -1171527761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_2_-_Tales_of_Destiny_Directors_Cut_-_Starfish-removebg-preview_62
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 101
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9086ee41a71cee478105de3e281b77b
+      internalID: -1590576962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_2_-_Tales_of_Destiny_Directors_Cut_-_Starfish-removebg-preview_63
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 101
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbebdd225bc010244bb6c2938d86a5d5
+      internalID: -843972630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_2_-_Tales_of_Destiny_Directors_Cut_-_Starfish-removebg-preview_64
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 98
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbec2228b87c1fc42a4359ca63c116f5
+      internalID: -917392354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_2_-_Tales_of_Destiny_Directors_Cut_-_Starfish-removebg-preview_65
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 102
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89163b00793121844af116aa4ba92100
+      internalID: -757936977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_2_-_Tales_of_Destiny_Directors_Cut_-_Starfish-removebg-preview_66
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 96
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc7df54ea4a905c41a5baae8bd0d8ccf
+      internalID: -785095179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_2_-_Tales_of_Destiny_Directors_Cut_-_Starfish-removebg-preview_67
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 52
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d600e428022fb04cbe9d8abc6f45e07
+      internalID: 922613757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_2_-_Tales_of_Destiny_Directors_Cut_-_Starfish-removebg-preview_68
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 50
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f443e1f0c13ad86459d7f42215de92c1
+      internalID: 1821523487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_2_-_Tales_of_Destiny_Directors_Cut_-_Starfish-removebg-preview_69
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 50
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9e9a3f8ad34a4848b8e08714f4b5c59
+      internalID: -1906093456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_2_-_Tales_of_Destiny_Directors_Cut_-_Starfish-removebg-preview_70
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 50
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41b15763fe69a5c4489ed6a7b5b04d8f
+      internalID: -369054156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_2_-_Tales_of_Destiny_Directors_Cut_-_Starfish-removebg-preview_71
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 52
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aaba2838569b9e4593b07b87278a662
+      internalID: 28101124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_2_-_Tales_of_Destiny_Directors_Cut_-_Starfish-removebg-preview_72
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 52
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4d32c023b066e64080a060be25bcc92
+      internalID: 489276393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_2_-_Tales_of_Destiny_Directors_Cut_-_Starfish-removebg-preview_73
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 52
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7450b34df30df544a21628f082cca2a
+      internalID: 493624170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_2_-_Tales_of_Destiny_Directors_Cut_-_Starfish-removebg-preview_74
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 3
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93fe3c5146cd98643871d7df99f38a9b
+      internalID: -1374995665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_2_-_Tales_of_Destiny_Directors_Cut_-_Starfish-removebg-preview_75
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 5
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a05b04bff0336f46883fb43927bff5b
+      internalID: 32327154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_2_-_Tales_of_Destiny_Directors_Cut_-_Starfish-removebg-preview_76
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 3
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e957288e77b47bb4c8929462f9850d79
+      internalID: -2005469214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_2_-_Tales_of_Destiny_Directors_Cut_-_Starfish-removebg-preview_77
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 3
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1ae9ea2044d14b449fcf9abcb300e3e
+      internalID: 824123777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_2_-_Tales_of_Destiny_Directors_Cut_-_Starfish-removebg-preview_78
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 3
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcf9cda07171d5642bb49517fcdad893
+      internalID: 144705675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_2_-_Tales_of_Destiny_Directors_Cut_-_Starfish-removebg-preview_79
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 3
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09aeead3bf8e9324682db42e3fb3c97f
+      internalID: 1953618406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_2_-_Tales_of_Destiny_Directors_Cut_-_Starfish-removebg-preview_80
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 3
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b651caaa63775724d95d7c4663207214
+      internalID: -403943666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PlayStation_2_-_Tales_of_Destiny_Directors_Cut_-_Starfish-removebg-preview_69: -1906093456
+      PlayStation_2_-_Tales_of_Destiny_Directors_Cut_-_Starfish-removebg-preview_30: -205312957
+      PlayStation_2_-_Tales_of_Destiny_Directors_Cut_-_Starfish-removebg-preview_18: -1819689740
+      PlayStation_2_-_Tales_of_Destiny_Directors_Cut_-_Starfish-removebg-preview_19: -730742861
+      PlayStation_2_-_Tales_of_Destiny_Directors_Cut_-_Starfish-removebg-preview_56: -179778349
+      PlayStation_2_-_Tales_of_Destiny_Directors_Cut_-_Starfish-removebg-preview_16: -625277157
+      PlayStation_2_-_Tales_of_Destiny_Directors_Cut_-_Starfish-removebg-preview_4: 783268424
+      PlayStation_2_-_Tales_of_Destiny_Directors_Cut_-_Starfish-removebg-preview_32: -2029432419
+      PlayStation_2_-_Tales_of_Destiny_Directors_Cut_-_Starfish-removebg-preview_71: 28101124
+      PlayStation_2_-_Tales_of_Destiny_Directors_Cut_-_Starfish-removebg-preview_20: 119289805
+      PlayStation_2_-_Tales_of_Destiny_Directors_Cut_-_Starfish-removebg-preview_39: -285775358
+      PlayStation_2_-_Tales_of_Destiny_Directors_Cut_-_Starfish-removebg-preview_31: -758858585
+      PlayStation_2_-_Tales_of_Destiny_Directors_Cut_-_Starfish-removebg-preview_9: 1681872049
+      PlayStation_2_-_Tales_of_Destiny_Directors_Cut_-_Starfish-removebg-preview_35: -1534797743
+      PlayStation_2_-_Tales_of_Destiny_Directors_Cut_-_Starfish-removebg-preview_64: -917392354
+      PlayStation_2_-_Tales_of_Destiny_Directors_Cut_-_Starfish-removebg-preview_22: -608257257
+      PlayStation_2_-_Tales_of_Destiny_Directors_Cut_-_Starfish-removebg-preview_36: -152538106
+      PlayStation_2_-_Tales_of_Destiny_Directors_Cut_-_Starfish-removebg-preview_11: -921593299
+      PlayStation_2_-_Tales_of_Destiny_Directors_Cut_-_Starfish-removebg-preview_51: 462866690
+      PlayStation_2_-_Tales_of_Destiny_Directors_Cut_-_Starfish-removebg-preview_47: 838928385
+      PlayStation_2_-_Tales_of_Destiny_Directors_Cut_-_Starfish-removebg-preview_78: 144705675
+      PlayStation_2_-_Tales_of_Destiny_Directors_Cut_-_Starfish-removebg-preview_57: 1378082473
+      PlayStation_2_-_Tales_of_Destiny_Directors_Cut_-_Starfish-removebg-preview_50: 1198582700
+      PlayStation_2_-_Tales_of_Destiny_Directors_Cut_-_Starfish-removebg-preview_28: 882802307
+      PlayStation_2_-_Tales_of_Destiny_Directors_Cut_-_Starfish-removebg-preview_52: 368945297
+      PlayStation_2_-_Tales_of_Destiny_Directors_Cut_-_Starfish-removebg-preview_67: 922613757
+      PlayStation_2_-_Tales_of_Destiny_Directors_Cut_-_Starfish-removebg-preview_63: -843972630
+      PlayStation_2_-_Tales_of_Destiny_Directors_Cut_-_Starfish-removebg-preview_27: 190774048
+      PlayStation_2_-_Tales_of_Destiny_Directors_Cut_-_Starfish-removebg-preview_48: 1379834078
+      PlayStation_2_-_Tales_of_Destiny_Directors_Cut_-_Starfish-removebg-preview_12: -103030894
+      PlayStation_2_-_Tales_of_Destiny_Directors_Cut_-_Starfish-removebg-preview_23: -1158052673
+      PlayStation_2_-_Tales_of_Destiny_Directors_Cut_-_Starfish-removebg-preview_13: -1345699032
+      PlayStation_2_-_Tales_of_Destiny_Directors_Cut_-_Starfish-removebg-preview_24: 1584087733
+      PlayStation_2_-_Tales_of_Destiny_Directors_Cut_-_Starfish-removebg-preview_62: -1590576962
+      PlayStation_2_-_Tales_of_Destiny_Directors_Cut_-_Starfish-removebg-preview_7: -929293997
+      PlayStation_2_-_Tales_of_Destiny_Directors_Cut_-_Starfish-removebg-preview_21: -1628404169
+      PlayStation_2_-_Tales_of_Destiny_Directors_Cut_-_Starfish-removebg-preview_60: 1108599096
+      PlayStation_2_-_Tales_of_Destiny_Directors_Cut_-_Starfish-removebg-preview_41: 234641971
+      PlayStation_2_-_Tales_of_Destiny_Directors_Cut_-_Starfish-removebg-preview_0: -1820901523
+      PlayStation_2_-_Tales_of_Destiny_Directors_Cut_-_Starfish-removebg-preview_44: -2064089283
+      PlayStation_2_-_Tales_of_Destiny_Directors_Cut_-_Starfish-removebg-preview_49: 2032259529
+      PlayStation_2_-_Tales_of_Destiny_Directors_Cut_-_Starfish-removebg-preview_65: -757936977
+      PlayStation_2_-_Tales_of_Destiny_Directors_Cut_-_Starfish-removebg-preview_80: -403943666
+      PlayStation_2_-_Tales_of_Destiny_Directors_Cut_-_Starfish-removebg-preview_53: -241163477
+      PlayStation_2_-_Tales_of_Destiny_Directors_Cut_-_Starfish-removebg-preview_73: 493624170
+      PlayStation_2_-_Tales_of_Destiny_Directors_Cut_-_Starfish-removebg-preview_55: 915690537
+      PlayStation_2_-_Tales_of_Destiny_Directors_Cut_-_Starfish-removebg-preview_38: -1592412124
+      PlayStation_2_-_Tales_of_Destiny_Directors_Cut_-_Starfish-removebg-preview_15: -2067460188
+      PlayStation_2_-_Tales_of_Destiny_Directors_Cut_-_Starfish-removebg-preview_74: -1374995665
+      PlayStation_2_-_Tales_of_Destiny_Directors_Cut_-_Starfish-removebg-preview_37: 548856789
+      PlayStation_2_-_Tales_of_Destiny_Directors_Cut_-_Starfish-removebg-preview_46: 2081268582
+      PlayStation_2_-_Tales_of_Destiny_Directors_Cut_-_Starfish-removebg-preview_33: -962223229
+      PlayStation_2_-_Tales_of_Destiny_Directors_Cut_-_Starfish-removebg-preview_1: -1387475077
+      PlayStation_2_-_Tales_of_Destiny_Directors_Cut_-_Starfish-removebg-preview_5: 182006818
+      PlayStation_2_-_Tales_of_Destiny_Directors_Cut_-_Starfish-removebg-preview_70: -369054156
+      PlayStation_2_-_Tales_of_Destiny_Directors_Cut_-_Starfish-removebg-preview_3: 904822170
+      PlayStation_2_-_Tales_of_Destiny_Directors_Cut_-_Starfish-removebg-preview_26: -1420313222
+      PlayStation_2_-_Tales_of_Destiny_Directors_Cut_-_Starfish-removebg-preview_58: 1816692646
+      PlayStation_2_-_Tales_of_Destiny_Directors_Cut_-_Starfish-removebg-preview_14: -2080588672
+      PlayStation_2_-_Tales_of_Destiny_Directors_Cut_-_Starfish-removebg-preview_45: 633024678
+      PlayStation_2_-_Tales_of_Destiny_Directors_Cut_-_Starfish-removebg-preview_8: -1916400469
+      PlayStation_2_-_Tales_of_Destiny_Directors_Cut_-_Starfish-removebg-preview_25: -407107618
+      PlayStation_2_-_Tales_of_Destiny_Directors_Cut_-_Starfish-removebg-preview_77: 824123777
+      PlayStation_2_-_Tales_of_Destiny_Directors_Cut_-_Starfish-removebg-preview_68: 1821523487
+      PlayStation_2_-_Tales_of_Destiny_Directors_Cut_-_Starfish-removebg-preview_6: -1711229243
+      PlayStation_2_-_Tales_of_Destiny_Directors_Cut_-_Starfish-removebg-preview_17: -1286508960
+      PlayStation_2_-_Tales_of_Destiny_Directors_Cut_-_Starfish-removebg-preview_10: 2147397053
+      PlayStation_2_-_Tales_of_Destiny_Directors_Cut_-_Starfish-removebg-preview_72: 489276393
+      PlayStation_2_-_Tales_of_Destiny_Directors_Cut_-_Starfish-removebg-preview_61: -1171527761
+      PlayStation_2_-_Tales_of_Destiny_Directors_Cut_-_Starfish-removebg-preview_42: 603363703
+      PlayStation_2_-_Tales_of_Destiny_Directors_Cut_-_Starfish-removebg-preview_59: -1275533009
+      PlayStation_2_-_Tales_of_Destiny_Directors_Cut_-_Starfish-removebg-preview_76: -2005469214
+      PlayStation_2_-_Tales_of_Destiny_Directors_Cut_-_Starfish-removebg-preview_29: -508789985
+      PlayStation_2_-_Tales_of_Destiny_Directors_Cut_-_Starfish-removebg-preview_75: 32327154
+      PlayStation_2_-_Tales_of_Destiny_Directors_Cut_-_Starfish-removebg-preview_43: 1936872920
+      PlayStation_2_-_Tales_of_Destiny_Directors_Cut_-_Starfish-removebg-preview_79: 1953618406
+      PlayStation_2_-_Tales_of_Destiny_Directors_Cut_-_Starfish-removebg-preview_34: 1978096518
+      PlayStation_2_-_Tales_of_Destiny_Directors_Cut_-_Starfish-removebg-preview_2: 17526860
+      PlayStation_2_-_Tales_of_Destiny_Directors_Cut_-_Starfish-removebg-preview_40: -1056296037
+      PlayStation_2_-_Tales_of_Destiny_Directors_Cut_-_Starfish-removebg-preview_54: -1575774006
+      PlayStation_2_-_Tales_of_Destiny_Directors_Cut_-_Starfish-removebg-preview_66: -785095179
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

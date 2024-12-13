@@ -1,0 +1,739 @@
+fileFormatVersion: 2
+guid: 7657ca0ffb2273f409c3af74a2651565
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sega_Genesis_32X_-_Ecco_the_Dolphin_-_Shark-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 347
+        width: 94
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8cb661bb52c3e243bc1c17e9ed77a1b
+      internalID: -1570081125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega_Genesis_32X_-_Ecco_the_Dolphin_-_Shark-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 347
+        width: 80
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: becc73023e5e32046b8c1d3df57576b6
+      internalID: -375505155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega_Genesis_32X_-_Ecco_the_Dolphin_-_Shark-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 344
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2372aa7299df05c4fa8ec98e49570aab
+      internalID: 682019180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega_Genesis_32X_-_Ecco_the_Dolphin_-_Shark-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 345
+        width: 59
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d06e4edfa557df4483062cac252924a
+      internalID: 2142354976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega_Genesis_32X_-_Ecco_the_Dolphin_-_Shark-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 341
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfc8155204504634cb5d309fa7accf14
+      internalID: -748990630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega_Genesis_32X_-_Ecco_the_Dolphin_-_Shark-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 347
+        width: 64
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38ad9dc917ce2594e8a8af7b83b1dfcd
+      internalID: -1520062040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega_Genesis_32X_-_Ecco_the_Dolphin_-_Shark-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 347
+        width: 94
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d40678e6150663428ad12c53ca09c33
+      internalID: 1726562410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega_Genesis_32X_-_Ecco_the_Dolphin_-_Shark-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 283
+        width: 94
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1364c5ff41723534f9e490c982aabb93
+      internalID: -1266520982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega_Genesis_32X_-_Ecco_the_Dolphin_-_Shark-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 283
+        width: 80
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d542ebf1cb89754e9c32e429a0c6121
+      internalID: 1921420538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega_Genesis_32X_-_Ecco_the_Dolphin_-_Shark-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 280
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab47d9ab929eb7b4d95e036ff8234ba0
+      internalID: 33722901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega_Genesis_32X_-_Ecco_the_Dolphin_-_Shark-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 281
+        width: 59
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9075d75187a801143b5c595fed719ae4
+      internalID: 82477708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega_Genesis_32X_-_Ecco_the_Dolphin_-_Shark-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 277
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56d70fd5f02163b4eab57c253ca3029f
+      internalID: 1690012635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega_Genesis_32X_-_Ecco_the_Dolphin_-_Shark-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 283
+        width: 64
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c5bec88e04a7f64fb221249ad5386ed
+      internalID: -623574118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega_Genesis_32X_-_Ecco_the_Dolphin_-_Shark-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 283
+        width: 94
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 933b694a152ce164fb98550d81ea4425
+      internalID: 1672861639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega_Genesis_32X_-_Ecco_the_Dolphin_-_Shark-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 221
+        width: 87
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ccc659f53d82fa48846abc7dfad96fa
+      internalID: -977957459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega_Genesis_32X_-_Ecco_the_Dolphin_-_Shark-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 222
+        width: 94
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fb108c4d683d2a498fdd2c9f3727011
+      internalID: -75676398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega_Genesis_32X_-_Ecco_the_Dolphin_-_Shark-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 218
+        width: 91
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 914e46264bfd64940b5a5e00de6bf59c
+      internalID: -263815868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega_Genesis_32X_-_Ecco_the_Dolphin_-_Shark-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 222
+        width: 94
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b75b3ef91a5278d4c840922c07e119bb
+      internalID: 931098098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega_Genesis_32X_-_Ecco_the_Dolphin_-_Shark-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 160
+        width: 87
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c6fe9d4a5d57d44c84fc18f7e2b0843
+      internalID: -1382436950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega_Genesis_32X_-_Ecco_the_Dolphin_-_Shark-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 161
+        width: 94
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9969dfaca109a8e41b2d9084f67ad469
+      internalID: -682239723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega_Genesis_32X_-_Ecco_the_Dolphin_-_Shark-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 157
+        width: 91
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45b084b3c59f4ea44b0ed49b327f5e67
+      internalID: 1390638399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega_Genesis_32X_-_Ecco_the_Dolphin_-_Shark-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 161
+        width: 94
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb5ace03932656c42b7f6e972b657dfd
+      internalID: 654001567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega_Genesis_32X_-_Ecco_the_Dolphin_-_Shark-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 100
+        width: 94
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89942eac3ff64964f9646927b0a93dbe
+      internalID: -1298913893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega_Genesis_32X_-_Ecco_the_Dolphin_-_Shark-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 100
+        width: 93
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fc735f23bceb8e4cae880fad2f128cd
+      internalID: 475644755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega_Genesis_32X_-_Ecco_the_Dolphin_-_Shark-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 100
+        width: 93
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63dc3ab63e73ebd47928320042999f08
+      internalID: 700227570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega_Genesis_32X_-_Ecco_the_Dolphin_-_Shark-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 39
+        width: 94
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23629dc80326dbc47a5e759e5acd324f
+      internalID: 727832308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega_Genesis_32X_-_Ecco_the_Dolphin_-_Shark-removebg-preview_26
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 39
+        width: 93
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 343aa97a73a2da34c9c65c65d435bed4
+      internalID: 586627025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega_Genesis_32X_-_Ecco_the_Dolphin_-_Shark-removebg-preview_27
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 39
+        width: 93
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f711527b1278dfe4ead8e68e815781c6
+      internalID: 1909807404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Sega_Genesis_32X_-_Ecco_the_Dolphin_-_Shark-removebg-preview_10: 82477708
+      Sega_Genesis_32X_-_Ecco_the_Dolphin_-_Shark-removebg-preview_11: 1690012635
+      Sega_Genesis_32X_-_Ecco_the_Dolphin_-_Shark-removebg-preview_26: 586627025
+      Sega_Genesis_32X_-_Ecco_the_Dolphin_-_Shark-removebg-preview_15: -75676398
+      Sega_Genesis_32X_-_Ecco_the_Dolphin_-_Shark-removebg-preview_18: -1382436950
+      Sega_Genesis_32X_-_Ecco_the_Dolphin_-_Shark-removebg-preview_17: 931098098
+      Sega_Genesis_32X_-_Ecco_the_Dolphin_-_Shark-removebg-preview_24: 700227570
+      Sega_Genesis_32X_-_Ecco_the_Dolphin_-_Shark-removebg-preview_3: 2142354976
+      Sega_Genesis_32X_-_Ecco_the_Dolphin_-_Shark-removebg-preview_7: -1266520982
+      Sega_Genesis_32X_-_Ecco_the_Dolphin_-_Shark-removebg-preview_6: 1726562410
+      Sega_Genesis_32X_-_Ecco_the_Dolphin_-_Shark-removebg-preview_12: -623574118
+      Sega_Genesis_32X_-_Ecco_the_Dolphin_-_Shark-removebg-preview_13: 1672861639
+      Sega_Genesis_32X_-_Ecco_the_Dolphin_-_Shark-removebg-preview_23: 475644755
+      Sega_Genesis_32X_-_Ecco_the_Dolphin_-_Shark-removebg-preview_22: -1298913893
+      Sega_Genesis_32X_-_Ecco_the_Dolphin_-_Shark-removebg-preview_21: 654001567
+      Sega_Genesis_32X_-_Ecco_the_Dolphin_-_Shark-removebg-preview_14: -977957459
+      Sega_Genesis_32X_-_Ecco_the_Dolphin_-_Shark-removebg-preview_16: -263815868
+      Sega_Genesis_32X_-_Ecco_the_Dolphin_-_Shark-removebg-preview_25: 727832308
+      Sega_Genesis_32X_-_Ecco_the_Dolphin_-_Shark-removebg-preview_1: -375505155
+      Sega_Genesis_32X_-_Ecco_the_Dolphin_-_Shark-removebg-preview_8: 1921420538
+      Sega_Genesis_32X_-_Ecco_the_Dolphin_-_Shark-removebg-preview_19: -682239723
+      Sega_Genesis_32X_-_Ecco_the_Dolphin_-_Shark-removebg-preview_27: 1909807404
+      Sega_Genesis_32X_-_Ecco_the_Dolphin_-_Shark-removebg-preview_4: -748990630
+      Sega_Genesis_32X_-_Ecco_the_Dolphin_-_Shark-removebg-preview_2: 682019180
+      Sega_Genesis_32X_-_Ecco_the_Dolphin_-_Shark-removebg-preview_5: -1520062040
+      Sega_Genesis_32X_-_Ecco_the_Dolphin_-_Shark-removebg-preview_20: 1390638399
+      Sega_Genesis_32X_-_Ecco_the_Dolphin_-_Shark-removebg-preview_0: -1570081125
+      Sega_Genesis_32X_-_Ecco_the_Dolphin_-_Shark-removebg-preview_9: 33722901
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

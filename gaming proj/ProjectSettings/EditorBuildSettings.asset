@@ -16,7 +16,10 @@ EditorBuildSettings:
     guid: 628119ae811aee14c903a08a44e34654
   - enabled: 1
     path: Assets/Scenes/L3.unity
-    guid: 033eaa37add094f9498551332a7afe74
+    guid: dfe1bb86c25a75a4c8124437ce48db0c
+  - enabled: 1
+    path: Assets/Scenes/L3.1.unity
+    guid: 450dcb472cb23c9489b3433895912ae6
   - enabled: 1
     path: Assets/Scenes/L4.0.unity
     guid: 5d09bda785920451ba22ce7c3bb78d22
