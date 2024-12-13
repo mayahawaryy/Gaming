@@ -6,7 +6,7 @@ public class LevelManagerWater : MonoBehaviour
 {
     public GameObject CurrentCheckpoint;
 
-    //public Transform enemy;
+    public Transform enemy;
     // Start is called before the first frame update
     void Start()
     {
@@ -24,8 +24,8 @@ public class LevelManagerWater : MonoBehaviour
         FindObjectOfType<Move>().transform.position=CurrentCheckpoint.transform.position;
     }
 
-   // public void RespawnEnemy()
-   // {
-    //    Instantiate(enemy, transform.position, transform.rotation);
-   // }
+    public void RespawnEnemy()
+    {
+        Instantiate(enemy, transform.position, transform.rotation);
+    }
 }

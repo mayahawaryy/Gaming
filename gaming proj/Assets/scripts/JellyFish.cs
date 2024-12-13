@@ -27,5 +27,21 @@ temp_position.y = Mathf.Sin(Time.realtimeSinceStartup * VerticalSpeed) * amplitu
 transform.position = temp_position;
 
 }
+
+void OnTriggerEnter2D(Collider2D collider)
+{
+if (collider.tag == "Wall")
+{
+Flip ();
+}
+else if (collider.tag == "Enemy")
+{
+Flip ();
+}
+if(collider.tag == "Player")
+{
+FindObjectOfType<PlayerStats>().TakeDamage(damage);
+}
    
+}
 }
