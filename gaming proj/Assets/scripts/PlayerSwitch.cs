@@ -10,15 +10,15 @@ public class PlayerSwitch : MonoBehaviour
 
     void Start()
     {
-        // Start with Player 1 active and Player 2 inactive
-        player1Move.enabled = true;
-        player2Move.enabled = false;
+        // Start with Player 1 active and Player 2 inactive for shooting
+        player1Move.canShoot = true;
+        player2Move.canShoot = false;
     }
 
     void Update()
     {
-        // Switch players when the RightShift key is pressed
-        if (Input.GetKeyDown(KeyCode.RightShift))
+        // Switch players when either RightShift or LeftShift key is pressed
+        if (Input.GetKeyDown(KeyCode.RightShift) || Input.GetKeyDown(KeyCode.LeftShift))
         {
             SwitchPlayer();
         }
@@ -29,20 +29,8 @@ public class PlayerSwitch : MonoBehaviour
         // Toggle active player
         player1Active = !player1Active;
 
-        // Enable the active player's move script and disable the other
-        player1Move.enabled = player1Active;
-        player2Move.enabled = !player1Active;
-
-        // Update shooting ability based on active player
-        //if (player1Active) 
-        //{
-            //player1Move.canShoot = true; 
-          ///  player2Move.canShoot = false;
-        //}
-        //else 
-       // {
-         //   player1Move.canShoot = false;
-         //   player2Move.canShoot = true;
-       // }
+        // Enable shooting for the active player and disable for the other
+        player1Move.canShoot = player1Active;
+        player2Move.canShoot = !player1Active;
     }
 }

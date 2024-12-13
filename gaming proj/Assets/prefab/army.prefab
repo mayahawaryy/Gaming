@@ -11,7 +11,6 @@ GameObject:
   - component: {fileID: 6143541452418225915}
   - component: {fileID: 6143541452418225912}
   - component: {fileID: 5667306139412917285}
-  - component: {fileID: 6143541452418225916}
   - component: {fileID: 6143541452418225913}
   - component: {fileID: 6143541452418225917}
   - component: {fileID: 6143541452418225914}
@@ -106,24 +105,9 @@ MonoBehaviour:
   maxSpeed: 3
   damage: 6
   detectionZone: {fileID: 0}
---- !u!114 &6143541452418225916
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6143541452418225910}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 90e5ac9b728be4019bb70addcca4d5ca, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  isFacingRight: 0
-  maxSpeed: 1
-  damage: 2
 --- !u!95 &6143541452418225913
 Animator:
-  serializedVersion: 5
+  serializedVersion: 4
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -140,8 +124,7 @@ Animator:
   m_WarningMessage: 
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
-  m_KeepAnimatorStateOnDisable: 0
-  m_WriteDefaultValuesOnDisable: 0
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!50 &6143541452418225917
 Rigidbody2D:
   serializedVersion: 4

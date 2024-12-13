@@ -13,7 +13,7 @@ public class Move : MonoBehaviour
     public float groundCheckRadius;
     public LayerMask whatIsGround;
     private bool grounded;
-  //  private Animator anim;
+  private Animator anim;
   public AudioClip jump1;
     public AudioClip jump2;
     public int totalcoins;
@@ -28,7 +28,7 @@ public class Move : MonoBehaviour
 
     void Start()
     {
-      
+      anim = GetComponent<Animator>();
     }
     void Jump()
         {
@@ -67,8 +67,8 @@ public class Move : MonoBehaviour
 
            
         }
-     //anim.SetFloat("speed",Mathf.Abs(GetComponent<Rigidbody2D>().velocity.x));
-       // anim.SetBool("ground", grounded);
+     anim.SetFloat("speed",Mathf.Abs(GetComponent<Rigidbody2D>().velocity.x));
+       anim.SetBool("ground", grounded);
     }
 
    public void Shoot()
