@@ -72,6 +72,7 @@ GameObject:
   m_Component:
   - component: {fileID: 427276907872436017}
   - component: {fileID: 427276907872436014}
+  - component: {fileID: 3898187321434747306}
   - component: {fileID: 427276907872436012}
   - component: {fileID: 427276907872436013}
   - component: {fileID: 427276907872436019}
@@ -153,6 +154,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &3898187321434747306
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 427276907872436010}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6594d2aa2ebd34d42aedf4d707cedab3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  rb: {fileID: 427276907872436016}
 --- !u!114 &427276907872436012
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -266,7 +280,7 @@ HingeJoint2D:
   m_BreakTorque: Infinity
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: -3.426506, y: 2.7452219}
-  m_ConnectedAnchor: {x: -4.543106, y: 2.7228673}
+  m_ConnectedAnchor: {x: -16.737799, y: 3.5119328}
   m_UseMotor: 1
   m_Motor:
     m_MotorSpeed: -100
