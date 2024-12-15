@@ -1,0 +1,1047 @@
+fileFormatVersion: 2
+guid: 4292322e38c6d4a4caa7edfa7f04942e
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MS-DOS_-_Duke_Nukem_3D_Nuclear_Winter_-_Snowman-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 530
+        width: 35
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1991820593dc53e4b9496ddf741e007d
+      internalID: 1360548100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS_-_Duke_Nukem_3D_Nuclear_Winter_-_Snowman-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 530
+        width: 36
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 186ecb5e3095a424e9b0f9351474a97d
+      internalID: -236236215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS_-_Duke_Nukem_3D_Nuclear_Winter_-_Snowman-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 530
+        width: 39
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 324a47697c2138d4c9cbd50b1e0eb38d
+      internalID: -2124749427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS_-_Duke_Nukem_3D_Nuclear_Winter_-_Snowman-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 530
+        width: 38
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b48d5b21755d4ad4cba408cbba10f941
+      internalID: 1973685535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS_-_Duke_Nukem_3D_Nuclear_Winter_-_Snowman-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 530
+        width: 34
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc18dd03cc337944c93d76f4a6bcd1b3
+      internalID: 717164821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS_-_Duke_Nukem_3D_Nuclear_Winter_-_Snowman-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 463
+        width: 35
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9177207bfd7776478d8c1aaad77d944
+      internalID: 403956953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS_-_Duke_Nukem_3D_Nuclear_Winter_-_Snowman-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 463
+        width: 44
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b169afcdc75bdc469a5d5e575c5c8a9
+      internalID: -1088576391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS_-_Duke_Nukem_3D_Nuclear_Winter_-_Snowman-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 463
+        width: 48
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1e44fc12a7880a48aaf1d09b4ac4a87
+      internalID: 1683373575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS_-_Duke_Nukem_3D_Nuclear_Winter_-_Snowman-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 464
+        width: 39
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b0681e3da2dee546bd851377c1d7a5e
+      internalID: -2057538340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS_-_Duke_Nukem_3D_Nuclear_Winter_-_Snowman-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 463
+        width: 33
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fe895b1e47974f48942bf4d77418163
+      internalID: 673005774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS_-_Duke_Nukem_3D_Nuclear_Winter_-_Snowman-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 395
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2de61ad92e53714facce41833bca623
+      internalID: 1134638611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS_-_Duke_Nukem_3D_Nuclear_Winter_-_Snowman-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 395
+        width: 39
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f11fb9ede75b45c419a293e4f1d56225
+      internalID: 547858343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS_-_Duke_Nukem_3D_Nuclear_Winter_-_Snowman-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 395
+        width: 45
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e2e19e7c45144443bcaa921ef112989
+      internalID: -2134765824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS_-_Duke_Nukem_3D_Nuclear_Winter_-_Snowman-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 395
+        width: 37
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f18aa0b6db2b8e469bfee80f33f55a9
+      internalID: -1354852640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS_-_Duke_Nukem_3D_Nuclear_Winter_-_Snowman-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 396
+        width: 33
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74e13f32905e6314daf5c8e94b2cd3c0
+      internalID: -211276881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS_-_Duke_Nukem_3D_Nuclear_Winter_-_Snowman-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 326
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70aafc28055ec6941b7d862e6c280509
+      internalID: 808156640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS_-_Duke_Nukem_3D_Nuclear_Winter_-_Snowman-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 326
+        width: 65
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c418ee4106001e14289e787acaf5cf87
+      internalID: 1237845530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS_-_Duke_Nukem_3D_Nuclear_Winter_-_Snowman-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 326
+        width: 64
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60c53c8470b387f40a05bc6ba795aa65
+      internalID: 1323281259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS_-_Duke_Nukem_3D_Nuclear_Winter_-_Snowman-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 326
+        width: 38
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e245e9b1039b9748b684533798758f5
+      internalID: 1144462534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS_-_Duke_Nukem_3D_Nuclear_Winter_-_Snowman-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 326
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab457185ad8a54b4c948e6e8f1f47397
+      internalID: 713882651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS_-_Duke_Nukem_3D_Nuclear_Winter_-_Snowman-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 252
+        width: 65
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fb5586f563cf5c4ba689aa9bb480369
+      internalID: 700168982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS_-_Duke_Nukem_3D_Nuclear_Winter_-_Snowman-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 252
+        width: 44
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12fea64391626e641bd14b2404148401
+      internalID: -1157769007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS_-_Duke_Nukem_3D_Nuclear_Winter_-_Snowman-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 252
+        width: 44
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4356cfe84dcfdc459da50cc63b7ad6c
+      internalID: 229376801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS_-_Duke_Nukem_3D_Nuclear_Winter_-_Snowman-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 253
+        width: 44
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ca63d960802d1a43bf6a64ed6b59fc5
+      internalID: -14798773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS_-_Duke_Nukem_3D_Nuclear_Winter_-_Snowman-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 282
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5df3020f474f1d488774ab2d6f7b372
+      internalID: 1638697619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS_-_Duke_Nukem_3D_Nuclear_Winter_-_Snowman-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 182
+        width: 48
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb4d70404d9830540b05f04946449655
+      internalID: -144283572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS_-_Duke_Nukem_3D_Nuclear_Winter_-_Snowman-removebg-preview_26
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 182
+        width: 40
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc7145c290ca96c48b271ce6bfe28ea8
+      internalID: 666098697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS_-_Duke_Nukem_3D_Nuclear_Winter_-_Snowman-removebg-preview_27
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 182
+        width: 59
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4fcf528e53897b4fb9e7e2269282d0f
+      internalID: 704095479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS_-_Duke_Nukem_3D_Nuclear_Winter_-_Snowman-removebg-preview_28
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 182
+        width: 58
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2c5a1b6a432ac143a01ff2907494180
+      internalID: 1937630323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS_-_Duke_Nukem_3D_Nuclear_Winter_-_Snowman-removebg-preview_29
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 182
+        width: 41
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d8686fd28de1f24a8110a27f29306da
+      internalID: -2045045041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS_-_Duke_Nukem_3D_Nuclear_Winter_-_Snowman-removebg-preview_30
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 112
+        width: 45
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 163276171c9fb3a45849739338ab40c3
+      internalID: -1311203098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS_-_Duke_Nukem_3D_Nuclear_Winter_-_Snowman-removebg-preview_31
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 112
+        width: 42
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0613c871c2c69bf439bbd873c0404639
+      internalID: 445879055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS_-_Duke_Nukem_3D_Nuclear_Winter_-_Snowman-removebg-preview_32
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 111
+        width: 38
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51d2d7f5ff8eb374198669f108025ef7
+      internalID: -1218347685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS_-_Duke_Nukem_3D_Nuclear_Winter_-_Snowman-removebg-preview_33
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 112
+        width: 37
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 066f5c2e05cb8f245abd109b7dde8b3c
+      internalID: -476057338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS_-_Duke_Nukem_3D_Nuclear_Winter_-_Snowman-removebg-preview_34
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 112
+        width: 39
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30fe7b71871a17e438cba635c1a1bf82
+      internalID: -2118303476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS_-_Duke_Nukem_3D_Nuclear_Winter_-_Snowman-removebg-preview_35
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 147
+        width: 8
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db46191d5f783574fb3ad3dd8feeda1c
+      internalID: -1439581921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS_-_Duke_Nukem_3D_Nuclear_Winter_-_Snowman-removebg-preview_36
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 40
+        width: 46
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 957a87268d6f61c4bb671107269bcf1b
+      internalID: -977265800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS_-_Duke_Nukem_3D_Nuclear_Winter_-_Snowman-removebg-preview_37
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 44
+        width: 43
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daa4b61912f02914b95f924f143cedb7
+      internalID: -735320714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS_-_Duke_Nukem_3D_Nuclear_Winter_-_Snowman-removebg-preview_38
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 44
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d22baacf58b9e646896d7a2b42b37b5
+      internalID: 1348248783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS_-_Duke_Nukem_3D_Nuclear_Winter_-_Snowman-removebg-preview_39
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 50
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 197860abdb0ece84a8e09a97433289b1
+      internalID: -994304426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS_-_Duke_Nukem_3D_Nuclear_Winter_-_Snowman-removebg-preview_40
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 55
+        width: 39
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 496940ce5e9a3f74d923bead2a7b5e3b
+      internalID: 1686552978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS_-_Duke_Nukem_3D_Nuclear_Winter_-_Snowman-removebg-preview_41
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 3
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b1c16d74a10aee44a4a6796c27a6723
+      internalID: 1975400952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      MS-DOS_-_Duke_Nukem_3D_Nuclear_Winter_-_Snowman-removebg-preview_40: 1686552978
+      MS-DOS_-_Duke_Nukem_3D_Nuclear_Winter_-_Snowman-removebg-preview_14: -211276881
+      MS-DOS_-_Duke_Nukem_3D_Nuclear_Winter_-_Snowman-removebg-preview_3: 1973685535
+      MS-DOS_-_Duke_Nukem_3D_Nuclear_Winter_-_Snowman-removebg-preview_16: 1237845530
+      MS-DOS_-_Duke_Nukem_3D_Nuclear_Winter_-_Snowman-removebg-preview_11: 547858343
+      MS-DOS_-_Duke_Nukem_3D_Nuclear_Winter_-_Snowman-removebg-preview_31: 445879055
+      MS-DOS_-_Duke_Nukem_3D_Nuclear_Winter_-_Snowman-removebg-preview_0: 1360548100
+      MS-DOS_-_Duke_Nukem_3D_Nuclear_Winter_-_Snowman-removebg-preview_4: 717164821
+      MS-DOS_-_Duke_Nukem_3D_Nuclear_Winter_-_Snowman-removebg-preview_38: 1348248783
+      MS-DOS_-_Duke_Nukem_3D_Nuclear_Winter_-_Snowman-removebg-preview_30: -1311203098
+      MS-DOS_-_Duke_Nukem_3D_Nuclear_Winter_-_Snowman-removebg-preview_28: 1937630323
+      MS-DOS_-_Duke_Nukem_3D_Nuclear_Winter_-_Snowman-removebg-preview_15: 808156640
+      MS-DOS_-_Duke_Nukem_3D_Nuclear_Winter_-_Snowman-removebg-preview_22: 229376801
+      MS-DOS_-_Duke_Nukem_3D_Nuclear_Winter_-_Snowman-removebg-preview_20: 700168982
+      MS-DOS_-_Duke_Nukem_3D_Nuclear_Winter_-_Snowman-removebg-preview_26: 666098697
+      MS-DOS_-_Duke_Nukem_3D_Nuclear_Winter_-_Snowman-removebg-preview_39: -994304426
+      MS-DOS_-_Duke_Nukem_3D_Nuclear_Winter_-_Snowman-removebg-preview_34: -2118303476
+      MS-DOS_-_Duke_Nukem_3D_Nuclear_Winter_-_Snowman-removebg-preview_25: -144283572
+      MS-DOS_-_Duke_Nukem_3D_Nuclear_Winter_-_Snowman-removebg-preview_24: 1638697619
+      MS-DOS_-_Duke_Nukem_3D_Nuclear_Winter_-_Snowman-removebg-preview_32: -1218347685
+      MS-DOS_-_Duke_Nukem_3D_Nuclear_Winter_-_Snowman-removebg-preview_9: 673005774
+      MS-DOS_-_Duke_Nukem_3D_Nuclear_Winter_-_Snowman-removebg-preview_37: -735320714
+      MS-DOS_-_Duke_Nukem_3D_Nuclear_Winter_-_Snowman-removebg-preview_36: -977265800
+      MS-DOS_-_Duke_Nukem_3D_Nuclear_Winter_-_Snowman-removebg-preview_5: 403956953
+      MS-DOS_-_Duke_Nukem_3D_Nuclear_Winter_-_Snowman-removebg-preview_29: -2045045041
+      MS-DOS_-_Duke_Nukem_3D_Nuclear_Winter_-_Snowman-removebg-preview_1: -236236215
+      MS-DOS_-_Duke_Nukem_3D_Nuclear_Winter_-_Snowman-removebg-preview_41: 1975400952
+      MS-DOS_-_Duke_Nukem_3D_Nuclear_Winter_-_Snowman-removebg-preview_8: -2057538340
+      MS-DOS_-_Duke_Nukem_3D_Nuclear_Winter_-_Snowman-removebg-preview_18: 1144462534
+      MS-DOS_-_Duke_Nukem_3D_Nuclear_Winter_-_Snowman-removebg-preview_10: 1134638611
+      MS-DOS_-_Duke_Nukem_3D_Nuclear_Winter_-_Snowman-removebg-preview_12: -2134765824
+      MS-DOS_-_Duke_Nukem_3D_Nuclear_Winter_-_Snowman-removebg-preview_19: 713882651
+      MS-DOS_-_Duke_Nukem_3D_Nuclear_Winter_-_Snowman-removebg-preview_17: 1323281259
+      MS-DOS_-_Duke_Nukem_3D_Nuclear_Winter_-_Snowman-removebg-preview_27: 704095479
+      MS-DOS_-_Duke_Nukem_3D_Nuclear_Winter_-_Snowman-removebg-preview_13: -1354852640
+      MS-DOS_-_Duke_Nukem_3D_Nuclear_Winter_-_Snowman-removebg-preview_21: -1157769007
+      MS-DOS_-_Duke_Nukem_3D_Nuclear_Winter_-_Snowman-removebg-preview_6: -1088576391
+      MS-DOS_-_Duke_Nukem_3D_Nuclear_Winter_-_Snowman-removebg-preview_23: -14798773
+      MS-DOS_-_Duke_Nukem_3D_Nuclear_Winter_-_Snowman-removebg-preview_7: 1683373575
+      MS-DOS_-_Duke_Nukem_3D_Nuclear_Winter_-_Snowman-removebg-preview_2: -2124749427
+      MS-DOS_-_Duke_Nukem_3D_Nuclear_Winter_-_Snowman-removebg-preview_33: -476057338
+      MS-DOS_-_Duke_Nukem_3D_Nuclear_Winter_-_Snowman-removebg-preview_35: -1439581921
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

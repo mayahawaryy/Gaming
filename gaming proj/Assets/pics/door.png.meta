@@ -3,7 +3,7 @@ guid: fee2f1fa16c984ea0ba481897e5c8fea
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
-  serializedVersion: 12
+  serializedVersion: 13
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -20,11 +20,12 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
+    flipGreenChannel: 0
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
-  ignoreMasterTextureLimit: 0
+  ignoreMipmapLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -63,6 +64,7 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  swizzle: 50462976
   cookieLightType: 0
   platformSettings:
   - serializedVersion: 3
@@ -75,6 +77,7 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
@@ -87,6 +90,20 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
@@ -107,8 +124,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 18a3d1589477545aab9ae2ec8d6709f8
-      internalID: 834668718
+      spriteID: f77f166a6796184438c655b36112e110
+      internalID: 1868373452
       vertices: []
       indices: 
       edges: []
@@ -117,19 +134,19 @@ TextureImporter:
       name: door_1
       rect:
         serializedVersion: 2
-        x: 58
-        y: 108
-        width: 120
-        height: 102
+        x: 0
+        y: 1
+        width: 182
+        height: 209
       alignment: 0
       pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 0, y: 0, z: 4, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 28bdc886f72714ff48a93aa8c68894e2
-      internalID: -1077712243
+      spriteID: 8001a0515d6d0cc43aa4d2db992a7d54
+      internalID: -1796994069
       vertices: []
       indices: 
       edges: []
@@ -138,10 +155,10 @@ TextureImporter:
       name: door_2
       rect:
         serializedVersion: 2
-        x: 190
-        y: 107
-        width: 116
-        height: 104
+        x: 184
+        y: 0
+        width: 124
+        height: 210
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -149,8 +166,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 80995b9920bf74405a5b76aa004515c5
-      internalID: -49455205
+      spriteID: 3284dc8bd8845ee49b6df9825c24a94c
+      internalID: 1978028282
       vertices: []
       indices: 
       edges: []
@@ -159,19 +176,19 @@ TextureImporter:
       name: door_3
       rect:
         serializedVersion: 2
-        x: 324
-        y: 106
-        width: 113
-        height: 104
+        x: 322
+        y: 0
+        width: 127
+        height: 210
       alignment: 0
       pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 0, y: 0, z: 5, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 82cbf195dac0747ce8a341eaddf95c36
-      internalID: 1613981950
+      spriteID: c9b31fdac0960c84baa761de1a64263f
+      internalID: -1813411218
       vertices: []
       indices: 
       edges: []
@@ -187,13 +204,12 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      door_0: 834668718
-      door_1: -1077712243
-      door_2: -49455205
-      door_3: 1613981950
-  spritePackingTag: 
+      door_0: 1868373452
+      door_1: -1796994069
+      door_2: 1978028282
+      door_3: -1813411218
+  mipmapLimitGroupName: 
   pSDRemoveMatte: 0
-  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

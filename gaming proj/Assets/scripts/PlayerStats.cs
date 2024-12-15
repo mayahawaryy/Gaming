@@ -9,48 +9,52 @@ public class PlayerStats : MonoBehaviour
     public GameObject player1;
     public GameObject player2;
 
-    private int sharedHealth = 6; // Initial shared health value
-    private int lives = 3; 
+    private int maxSharedHealth = 4; // Store max health for easier adjustments
+    private int sharedHealth;
+
+    private int lives = 2;
     private bool isImmune = false;
     private float immunityTime = 0f;
     public float immunityDuration = 1.5f;
     public Image healthbar;
-  //  public int health;
+
+    void Start()
+    {
+        // Initialize shared health at the beginning
+        sharedHealth = maxSharedHealth;
+        healthbar.fillAmount = 1f; // Initialize health bar to full
+    }
+
     // Function to apply damage to both players
     public void TakeDamage(int damage)
     {
         if (!isImmune)
         {
             sharedHealth -= damage;
+            healthbar.fillAmount = (float)sharedHealth / 4f;
 
             if (sharedHealth <= 0)
             {
+
                 // Both players are dead
-                lives--; 
+                lives--;
+                FindObjectOfType<LevelManager>().RespawnPlayer();
+                sharedHealth = maxSharedHealth;
+                healthbar.fillAmount = (float)sharedHealth / 4f;
                 if (lives <= 0)
                 {
                     Debug.Log("Both Players Dead");
-                    // Handle game over (e.g., load game over scene)
-                    SceneManager.LoadScene(8); 
+
+                    Destroy(player1);
+                    Destroy(player2);
+                    SceneManager.LoadScene(11);
                 }
-                else
-                {
-                    // Reset shared health 
-                    sharedHealth = 6; 
-                }
+
             }
 
             // Trigger player hit reaction (flickering)
-            StartCoroutine(PlayerFlicker()); 
-
-            // Update player health visuals (if applicable)
-            // Example: Assuming each player has a health bar script
-            // player1.GetComponent<PlayerHealthBar>().UpdateHealth(sharedHealth);
-            // player2.GetComponent<PlayerHealthBar>().UpdateHealth(sharedHealth); 
+            StartCoroutine(PlayerFlicker());
         }
-       // this.health=health-damage;
-      //  healthbar.fillAmount=this.health/3f;
-        
     }
 
     IEnumerator PlayerFlicker()
@@ -65,8 +69,8 @@ public class PlayerStats : MonoBehaviour
         {
             player1Sprite.enabled = !player1Sprite.enabled;
             player2Sprite.enabled = !player2Sprite.enabled;
-            yield return new WaitForSeconds(0.1f); 
-            immunityTime += 0.1f; 
+            yield return new WaitForSeconds(0.1f);
+            immunityTime += 0.1f;
         }
 
         player1Sprite.enabled = true;

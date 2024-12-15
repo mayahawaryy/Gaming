@@ -27,7 +27,7 @@ public Sprite explodedBlock;
 {
 // Change the Block sprite
 sr.sprite = explodedBlock;
-SceneManager.LoadScene(4);
+SceneManager.LoadScene(7);
 //Destroy(gameObject, .2f);
 }
 }

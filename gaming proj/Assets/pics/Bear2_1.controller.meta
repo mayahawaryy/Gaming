@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<<< HEAD:gaming proj/Assets/pics/Bear2_1.controller.meta
 guid: 1a8d78596cd341e4981aa03fcce984c0
+========
+guid: c796297907b964e7d98274be5e6cc1d1
+>>>>>>>> 36eb219193110ee508bec13829c31630c2d351d9:gaming proj/Assets/NewerCampFire_16.controller.meta
 NativeFormatImporter:
   externalObjects: {}
   mainObjectFileID: 9100000

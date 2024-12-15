@@ -1,0 +1,1487 @@
+fileFormatVersion: 2
+guid: f1c75f738c887644ba64f942712194cb
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: snoww-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 237
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e9c873a1de5a6e459e4b46c4107f5b8
+      internalID: -951418364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snoww-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 231
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c30a75749e2e7d42b9f976686990e6c
+      internalID: 45608739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snoww-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 222
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77d3fb0ff17ef4c46b3953c668be1898
+      internalID: 562025996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snoww-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 219
+        width: 57
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b28f72315c4786d4faf75227e4e94d30
+      internalID: 1249665191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snoww-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 214
+        width: 68
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cea9b47aa43ed0a48a781dc52f0f6191
+      internalID: -1606433428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snoww-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 212
+        width: 76
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63d074a16abd7b542a1dfd059236738e
+      internalID: -1648506629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snoww-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 207
+        width: 82
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 245501cd145441641a1225cb4364e993
+      internalID: 52308818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snoww-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 74
+        width: 82
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ad0fca82c9d49a4f98cb753f722a5f2
+      internalID: 722684147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snoww-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 75
+        width: 81
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ca9028220153af4c9d5b08f4f60bbcc
+      internalID: 1935382385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snoww-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 98
+        width: 78
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6acb93236537384283b155bf6d7117e
+      internalID: 384964713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snoww-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 124
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeff76bfe622c744ea629aacda46386a
+      internalID: 475796135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snoww-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 132
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 331a321b2a0d2604595136d7ebba9862
+      internalID: 903393130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snoww-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 120
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e76fc064050c65444b365b050f177409
+      internalID: 1848035186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snoww-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 99
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7646570ceb475e044a8c4eeb57eeacb0
+      internalID: 1281822932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snoww-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 122
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c604ae551cc7034fa9d155e00a8ad60
+      internalID: 471378351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snoww-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 131
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40d8d5050daeadb4b8ae53f91a104211
+      internalID: 1911757234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snoww-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 120
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bceacfff52946344cb0b454f058419ac
+      internalID: 336276630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snoww-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 131
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01f86b413adbfaf43880348880d3df1a
+      internalID: -1920258612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snoww-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 132
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30717637cd105ce41bdf67e8949fe695
+      internalID: -730917889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snoww-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 124
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0b0336a399723c439b30111d292ab58
+      internalID: 467685309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snoww-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 132
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d01d9a125b4a76944961f950647bd300
+      internalID: -1816065698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snoww-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 131
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf8b5cf3f5110454eba1dd73b64bd25e
+      internalID: -969357395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snoww-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 132
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1739b75327cb13c44a5abea592070422
+      internalID: 1107845458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snoww-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 129
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72e6db3584ff3d2439302d79302b670a
+      internalID: -1201137225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snoww-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 133
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b77814fcc148a04ea768faf40da58c8
+      internalID: -801188058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snoww-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 125
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f79b48d526066ca4f82a33b9935c1d17
+      internalID: -1009381613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snoww-removebg-preview_26
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 127
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85a03253097c3cc4fad5d9df652f0af8
+      internalID: 1450851053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snoww-removebg-preview_27
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 117
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c52af9e3defbf442b98269e79299ebe
+      internalID: -1634926139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snoww-removebg-preview_28
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 124
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d998485655d0d743ac269bfd72f286a
+      internalID: -391679476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snoww-removebg-preview_29
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 119
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc3a89083fbdeaf44ae98043933a076c
+      internalID: 508278205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snoww-removebg-preview_30
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 121
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04aa4c9b4bf2bf941ae16361587fc662
+      internalID: -703251452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snoww-removebg-preview_31
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 116
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1682713e929ccb4284d2a5213273fbb
+      internalID: 1872473758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snoww-removebg-preview_32
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 113
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd401e12955bd664d8a0faaa115c3511
+      internalID: -1237937955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snoww-removebg-preview_33
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 111
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78dc133f387fbaf448493576245b3d7e
+      internalID: -498748914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snoww-removebg-preview_34
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 116
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccb4dfc99902e174e83127f31bae6ef1
+      internalID: 379356402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snoww-removebg-preview_35
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 112
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44ec5123eff779b4199f0bd919abc0ba
+      internalID: -1915511706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snoww-removebg-preview_36
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 116
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c33e037ebbb066b498ec02a8925b1a22
+      internalID: -1813896333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snoww-removebg-preview_37
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 120
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ea24dfc94824a642bad452bd56a0420
+      internalID: 2097712937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snoww-removebg-preview_38
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 117
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6361c752c6909e244b00baedbca3714e
+      internalID: 1690197325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snoww-removebg-preview_39
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 114
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48e7b0366e7bade4d993521052cdd686
+      internalID: -2023973650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snoww-removebg-preview_40
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 87
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27e12228a3bf34943972650149ec0932
+      internalID: 1343873107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snoww-removebg-preview_41
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 75
+        width: 51
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 468356b80af46384a8681be6ddc16213
+      internalID: 344453643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snoww-removebg-preview_42
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 81
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99c168f841ffa6740b53e879a5671d8f
+      internalID: 838532499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snoww-removebg-preview_43
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 101
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d81ad3585bc2ef4d9e474f9874e8a1b
+      internalID: -1631256198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snoww-removebg-preview_44
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 86
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95fbb91dd641e474d9eb33fc29f661a6
+      internalID: 1726209475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snoww-removebg-preview_45
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 95
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a022ca8adedd30489fe200e8995c3a7
+      internalID: 607960398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snoww-removebg-preview_46
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 103
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04bbaf5d0ad8c8a45926a5c7518b402c
+      internalID: 829743076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snoww-removebg-preview_47
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 101
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bf519aa17ec8e94a9db78d682a351f9
+      internalID: -92508998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snoww-removebg-preview_48
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 93
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a44fbcee1d46a447b4f151353800c88
+      internalID: -645485203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snoww-removebg-preview_49
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 101
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce2ebf8a35daa114e838d6ad63b32e73
+      internalID: 1117823679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snoww-removebg-preview_50
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 98
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c907d1f21d49f864eb3ef25896c09c10
+      internalID: 2060563474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snoww-removebg-preview_51
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 92
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6b0e326cbd40eb458624088e3863907
+      internalID: -1045226316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snoww-removebg-preview_52
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 75
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc8ee5d8d74d1444992eb32590560bf0
+      internalID: 847978797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snoww-removebg-preview_53
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 92
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b0d8b94489b6db48ac7b316d9c77681
+      internalID: -2103526001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snoww-removebg-preview_54
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 83
+        width: 30
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 978389576a543d146b4f6062eb824a70
+      internalID: 1157304547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snoww-removebg-preview_55
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 86
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d65926dd40ec68a4ab265dd94bcdc812
+      internalID: -1117623997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snoww-removebg-preview_56
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 80
+        width: 29
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 738d014e95ccca349ad2c468c572c5e8
+      internalID: 1814237115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snoww-removebg-preview_57
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 84
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dc5370a32c40b44bbabe5d03deed5dc
+      internalID: 570736554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snoww-removebg-preview_58
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 79
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78ac6c229528183458def799331dfc2e
+      internalID: 1077464736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snoww-removebg-preview_59
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 80
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3020cc7aefe60674090fd7fe667257eb
+      internalID: 1003687543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snoww-removebg-preview_60
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 80
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e37ff80bc96b9b642b7dc0ca0de702ad
+      internalID: 63480080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snoww-removebg-preview_61
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 79
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fa0eed2cb41e41419b571d1e4e403f7
+      internalID: 626517485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      snoww-removebg-preview_56: 1814237115
+      snoww-removebg-preview_4: -1606433428
+      snoww-removebg-preview_1: 45608739
+      snoww-removebg-preview_34: 379356402
+      snoww-removebg-preview_26: 1450851053
+      snoww-removebg-preview_61: 626517485
+      snoww-removebg-preview_41: 344453643
+      snoww-removebg-preview_36: -1813896333
+      snoww-removebg-preview_52: 847978797
+      snoww-removebg-preview_13: 1281822932
+      snoww-removebg-preview_30: -703251452
+      snoww-removebg-preview_3: 1249665191
+      snoww-removebg-preview_21: -969357395
+      snoww-removebg-preview_49: 1117823679
+      snoww-removebg-preview_37: 2097712937
+      snoww-removebg-preview_53: -2103526001
+      snoww-removebg-preview_14: 471378351
+      snoww-removebg-preview_29: 508278205
+      snoww-removebg-preview_23: -1201137225
+      snoww-removebg-preview_39: -2023973650
+      snoww-removebg-preview_15: 1911757234
+      snoww-removebg-preview_20: -1816065698
+      snoww-removebg-preview_28: -391679476
+      snoww-removebg-preview_32: -1237937955
+      snoww-removebg-preview_47: -92508998
+      snoww-removebg-preview_58: 1077464736
+      snoww-removebg-preview_5: -1648506629
+      snoww-removebg-preview_38: 1690197325
+      snoww-removebg-preview_24: -801188058
+      snoww-removebg-preview_12: 1848035186
+      snoww-removebg-preview_54: 1157304547
+      snoww-removebg-preview_27: -1634926139
+      snoww-removebg-preview_17: -1920258612
+      snoww-removebg-preview_33: -498748914
+      snoww-removebg-preview_6: 52308818
+      snoww-removebg-preview_48: -645485203
+      snoww-removebg-preview_59: 1003687543
+      snoww-removebg-preview_8: 1935382385
+      snoww-removebg-preview_2: 562025996
+      snoww-removebg-preview_18: -730917889
+      snoww-removebg-preview_40: 1343873107
+      snoww-removebg-preview_35: -1915511706
+      snoww-removebg-preview_16: 336276630
+      snoww-removebg-preview_46: 829743076
+      snoww-removebg-preview_42: 838532499
+      snoww-removebg-preview_44: 1726209475
+      snoww-removebg-preview_7: 722684147
+      snoww-removebg-preview_55: -1117623997
+      snoww-removebg-preview_11: 903393130
+      snoww-removebg-preview_9: 384964713
+      snoww-removebg-preview_43: -1631256198
+      snoww-removebg-preview_60: 63480080
+      snoww-removebg-preview_25: -1009381613
+      snoww-removebg-preview_0: -951418364
+      snoww-removebg-preview_19: 467685309
+      snoww-removebg-preview_10: 475796135
+      snoww-removebg-preview_51: -1045226316
+      snoww-removebg-preview_22: 1107845458
+      snoww-removebg-preview_45: 607960398
+      snoww-removebg-preview_57: 570736554
+      snoww-removebg-preview_31: 1872473758
+      snoww-removebg-preview_50: 2060563474
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

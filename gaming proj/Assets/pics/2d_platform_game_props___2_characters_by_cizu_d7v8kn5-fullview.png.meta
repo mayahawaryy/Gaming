@@ -1,0 +1,1839 @@
+fileFormatVersion: 2
+guid: 3f87e2d379a7d384da94e0f48a336af4
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 2d_platform_game_props___2_characters_by_cizu_d7v8kn5-fullview_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 497
+        width: 240
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb18027b666ed0a4e86950ba53ef3ef9
+      internalID: 1994623683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_platform_game_props___2_characters_by_cizu_d7v8kn5-fullview_1
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 743
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d837cd83af3fee344ac469eb5d00aaca
+      internalID: -268158046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_platform_game_props___2_characters_by_cizu_d7v8kn5-fullview_2
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 738
+        width: 68
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17209dc04f6c4f240b977567d37f2043
+      internalID: -1692837380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_platform_game_props___2_characters_by_cizu_d7v8kn5-fullview_3
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 755
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3130270670a3ba428c2ca4adf9481ae
+      internalID: 2054146115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_platform_game_props___2_characters_by_cizu_d7v8kn5-fullview_4
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 647
+        width: 97
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f18d62b06092b945916064eb132bdd3
+      internalID: 276255271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_platform_game_props___2_characters_by_cizu_d7v8kn5-fullview_5
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 691
+        width: 69
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ca9f6ef1d797b74c82140be6e6f5baf
+      internalID: 1447728902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_platform_game_props___2_characters_by_cizu_d7v8kn5-fullview_6
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 718
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f16b4be5e4c7e9d4fbc1cd949e70c6c3
+      internalID: -174917081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_platform_game_props___2_characters_by_cizu_d7v8kn5-fullview_7
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 718
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1bf939e3ef1dd646b2da08d06929143
+      internalID: 675887890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_platform_game_props___2_characters_by_cizu_d7v8kn5-fullview_8
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 718
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ffde2a10e4700c49863dc7db649966d
+      internalID: -310067197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_platform_game_props___2_characters_by_cizu_d7v8kn5-fullview_9
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 718
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffbd626540ebbcd4bb981dfacd48e67b
+      internalID: -1186627668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_platform_game_props___2_characters_by_cizu_d7v8kn5-fullview_10
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 717
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3e1fd08817d545478826f8e6915e47e
+      internalID: -2087346278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_platform_game_props___2_characters_by_cizu_d7v8kn5-fullview_11
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 718
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2f09ae720a669147a39a531101d6475
+      internalID: 1486703622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_platform_game_props___2_characters_by_cizu_d7v8kn5-fullview_12
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 718
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5794fac136fa66847ac39249e0edaf81
+      internalID: -651900569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_platform_game_props___2_characters_by_cizu_d7v8kn5-fullview_13
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 718
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0a688053d109604498a47e1a8a2c7ba
+      internalID: 74839739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_platform_game_props___2_characters_by_cizu_d7v8kn5-fullview_14
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 717
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b71df09a81b65db44992d1fd514b094d
+      internalID: -1378681034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_platform_game_props___2_characters_by_cizu_d7v8kn5-fullview_15
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 718
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94e1b60234e873749977dd0fe8ce7bf3
+      internalID: 358364981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_platform_game_props___2_characters_by_cizu_d7v8kn5-fullview_16
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 718
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c931e623880134cb68324ea9b61fc1
+      internalID: -2044777247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_platform_game_props___2_characters_by_cizu_d7v8kn5-fullview_17
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 718
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55c9f887ca7a2d94dbb33fa9ac0d05d5
+      internalID: 1680905694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_platform_game_props___2_characters_by_cizu_d7v8kn5-fullview_18
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 718
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcaa0167084492c48810aaec4e440edf
+      internalID: -568955669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_platform_game_props___2_characters_by_cizu_d7v8kn5-fullview_19
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 717
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bd4beafa89155444aac51ee21a411d9
+      internalID: -2057035048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_platform_game_props___2_characters_by_cizu_d7v8kn5-fullview_20
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 718
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b0e0a25440510e4a81f51ce3e73ebf1
+      internalID: -1687740934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_platform_game_props___2_characters_by_cizu_d7v8kn5-fullview_21
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 717
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72f3e1ffabc2de548ae4c599e510204e
+      internalID: -304247169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_platform_game_props___2_characters_by_cizu_d7v8kn5-fullview_22
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 647
+        width: 29
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb07e9d053293f246a7e3d638b955abd
+      internalID: 363788912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_platform_game_props___2_characters_by_cizu_d7v8kn5-fullview_23
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 646
+        width: 40
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0abeee545511f0f4394aa12547d67fc5
+      internalID: 1580033038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_platform_game_props___2_characters_by_cizu_d7v8kn5-fullview_24
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 698
+        width: 54
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29509a6b1f737b047950526431afcbe7
+      internalID: 1078298939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_platform_game_props___2_characters_by_cizu_d7v8kn5-fullview_25
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 695
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e05c7644548af7742811d086cb3196c1
+      internalID: 1204180333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_platform_game_props___2_characters_by_cizu_d7v8kn5-fullview_26
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 699
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b1eb21d33e7a444d8bacdd7c0d2e65b
+      internalID: -1529868830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_platform_game_props___2_characters_by_cizu_d7v8kn5-fullview_27
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 699
+        width: 69
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9421d74902f546b42bc86947363a1a2d
+      internalID: -496923356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_platform_game_props___2_characters_by_cizu_d7v8kn5-fullview_28
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 697
+        width: 40
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01303f22898dc31449dcb76d402fc41d
+      internalID: 969566728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_platform_game_props___2_characters_by_cizu_d7v8kn5-fullview_29
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 697
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1614be06efae0924eb99e6c55ab57c91
+      internalID: -1872632432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_platform_game_props___2_characters_by_cizu_d7v8kn5-fullview_30
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 699
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3843d6dcbdd59d14fa0923ce086a8044
+      internalID: -1003241721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_platform_game_props___2_characters_by_cizu_d7v8kn5-fullview_31
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 699
+        width: 43
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f14a2fc19ba2b140856eaee96afb8e9
+      internalID: 1434124568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_platform_game_props___2_characters_by_cizu_d7v8kn5-fullview_32
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 647
+        width: 31
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe1cc3a396e7ff14ea478fe231242f61
+      internalID: -103156241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_platform_game_props___2_characters_by_cizu_d7v8kn5-fullview_33
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 470
+        width: 160
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d59ae38180ecda141ae8ca886478a401
+      internalID: -916441622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_platform_game_props___2_characters_by_cizu_d7v8kn5-fullview_34
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 543
+        width: 74
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9262cee3d6443f84ea6901f6ddf1bf69
+      internalID: 2112726371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_platform_game_props___2_characters_by_cizu_d7v8kn5-fullview_35
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 547
+        width: 46
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21c96c3157cc3354d8d37f83d4bd5eb0
+      internalID: -863756853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_platform_game_props___2_characters_by_cizu_d7v8kn5-fullview_36
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 557
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 752f0d9229208b44d9e207df2dc20a49
+      internalID: -171341558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_platform_game_props___2_characters_by_cizu_d7v8kn5-fullview_37
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 606
+        width: 66
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f85e9103eeca604fb81f44266215fe9
+      internalID: 1957332366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_platform_game_props___2_characters_by_cizu_d7v8kn5-fullview_38
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 614
+        width: 88
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 996faeb70137f004eba99620d8006c5c
+      internalID: -1113138770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_platform_game_props___2_characters_by_cizu_d7v8kn5-fullview_39
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 611
+        width: 48
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96bfb3f1bcf4c92458687f7a0ad63b1b
+      internalID: -663358713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_platform_game_props___2_characters_by_cizu_d7v8kn5-fullview_40
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 610
+        width: 31
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4316fd36f6b6be846aaa3764034420bc
+      internalID: -526718747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_platform_game_props___2_characters_by_cizu_d7v8kn5-fullview_41
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 471
+        width: 74
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b22909b415163224b82743a4dfe9a690
+      internalID: -1813891084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_platform_game_props___2_characters_by_cizu_d7v8kn5-fullview_42
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 446
+        width: 67
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f8322bd03870ed478ec1ae71453bc49
+      internalID: -1516876798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_platform_game_props___2_characters_by_cizu_d7v8kn5-fullview_43
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 538
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58fefe0c8bfda4948842e86a324db5f5
+      internalID: -1750496150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_platform_game_props___2_characters_by_cizu_d7v8kn5-fullview_44
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 539
+        width: 38
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39eb845d680358c409f8f2f4f1c7bfdf
+      internalID: 190551894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_platform_game_props___2_characters_by_cizu_d7v8kn5-fullview_45
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 542
+        width: 54
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 711430462607fb347bcf6619977e8567
+      internalID: -985287325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_platform_game_props___2_characters_by_cizu_d7v8kn5-fullview_46
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 541
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e2b79f1a27d3e241ab36a1b81965894
+      internalID: 910276052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_platform_game_props___2_characters_by_cizu_d7v8kn5-fullview_47
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 545
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebdacfa7689075849b96aeb092ebcd54
+      internalID: -1884988692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_platform_game_props___2_characters_by_cizu_d7v8kn5-fullview_48
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 542
+        width: 44
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac8674b77d91c1b4da14a3a4d9ac5a52
+      internalID: -578444527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_platform_game_props___2_characters_by_cizu_d7v8kn5-fullview_49
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 487
+        width: 41
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b320d38027bf554d8aff18ed2e8985e
+      internalID: -1646984926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_platform_game_props___2_characters_by_cizu_d7v8kn5-fullview_50
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 482
+        width: 45
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e21a5d12f6c1b914a85e0b8a194b044f
+      internalID: -1725741262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_platform_game_props___2_characters_by_cizu_d7v8kn5-fullview_51
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 469
+        width: 53
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a008eaafc75001f4e8a03ce48e5204c3
+      internalID: -914846816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_platform_game_props___2_characters_by_cizu_d7v8kn5-fullview_52
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 469
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d650ce21289cfce4baa0509f795381b8
+      internalID: -746418621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_platform_game_props___2_characters_by_cizu_d7v8kn5-fullview_53
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 469
+        width: 55
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d013cd9292a5ce478b0cc054270b761
+      internalID: 38964317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_platform_game_props___2_characters_by_cizu_d7v8kn5-fullview_54
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 470
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 903ff1700148439419403ba7a79f14c0
+      internalID: 2027999882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_platform_game_props___2_characters_by_cizu_d7v8kn5-fullview_55
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 470
+        width: 63
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 302b1756ee07b074ba439837faddf6f7
+      internalID: -1528618583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_platform_game_props___2_characters_by_cizu_d7v8kn5-fullview_56
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 253
+        width: 213
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beb18485ed5fdb84793891929ed085c3
+      internalID: 1172890635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_platform_game_props___2_characters_by_cizu_d7v8kn5-fullview_57
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 460
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c76d7def19ba5c94aabe546e5d168cae
+      internalID: -271058782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_platform_game_props___2_characters_by_cizu_d7v8kn5-fullview_58
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 262
+        width: 125
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50f4e25e3ca414c468a8d0eec78f48f9
+      internalID: 369483408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_platform_game_props___2_characters_by_cizu_d7v8kn5-fullview_59
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 259
+        width: 112
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e19332af71247743ba8e2b8f8691e53
+      internalID: 411727193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_platform_game_props___2_characters_by_cizu_d7v8kn5-fullview_60
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 261
+        width: 105
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3ffd37849649c747b1bc80738fb66f3
+      internalID: 1515787930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_platform_game_props___2_characters_by_cizu_d7v8kn5-fullview_61
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 255
+        width: 116
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2af31d5e8fbf912448c733e2410e449c
+      internalID: -627999022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_platform_game_props___2_characters_by_cizu_d7v8kn5-fullview_62
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 406
+        width: 59
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cd760ac79445e941b43fa660c8e3f1f
+      internalID: 676233735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_platform_game_props___2_characters_by_cizu_d7v8kn5-fullview_63
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 406
+        width: 65
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48458762e3b03c34f93f729857537aab
+      internalID: -1911966708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_platform_game_props___2_characters_by_cizu_d7v8kn5-fullview_64
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 405
+        width: 76
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cf65824a50853a488a8c2ead2979340
+      internalID: -748759958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_platform_game_props___2_characters_by_cizu_d7v8kn5-fullview_65
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 405
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f545a5acd50d45d4c88db9ee98ce123b
+      internalID: -344289925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_platform_game_props___2_characters_by_cizu_d7v8kn5-fullview_66
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 401
+        width: 63
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c50774adc364c249a1e3d598175fbd3
+      internalID: -579076763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_platform_game_props___2_characters_by_cizu_d7v8kn5-fullview_67
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 349
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf8913edbc81ded4f90b445b914173f7
+      internalID: 309551142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_platform_game_props___2_characters_by_cizu_d7v8kn5-fullview_68
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 270
+        width: 216
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81cdd23303c14c14388a10aaa37972fa
+      internalID: 2020061781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_platform_game_props___2_characters_by_cizu_d7v8kn5-fullview_69
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 5
+        width: 468
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1971dd42825eebe43886267767c44cd8
+      internalID: -1902306884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_platform_game_props___2_characters_by_cizu_d7v8kn5-fullview_70
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 20
+        width: 114
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5487556f3958a2f45b04ea732408b47a
+      internalID: 1597999505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_platform_game_props___2_characters_by_cizu_d7v8kn5-fullview_71
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 18
+        width: 207
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91f74161f004e38478be3de1cb8d3d8e
+      internalID: 1788828221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_platform_game_props___2_characters_by_cizu_d7v8kn5-fullview_72
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 9
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b210fb1e694dab24eaa6c40358271525
+      internalID: 496763210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_platform_game_props___2_characters_by_cizu_d7v8kn5-fullview_73
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 19
+        width: 212
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f19501aa69f3d745901a73577aa5c10
+      internalID: 1692786480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_platform_game_props___2_characters_by_cizu_d7v8kn5-fullview_74
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 29
+        width: 103
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bafe399db699b5c44b13083709f506e8
+      internalID: -110295216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_platform_game_props___2_characters_by_cizu_d7v8kn5-fullview_75
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 9
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4de9f353771036c4b8fc8517a1abd613
+      internalID: 231058550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_platform_game_props___2_characters_by_cizu_d7v8kn5-fullview_76
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 8
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52cf12bf49bf46f4d9927229f9c6d281
+      internalID: 793846755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_platform_game_props___2_characters_by_cizu_d7v8kn5-fullview_77
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 0
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dcf8f74ebedd4f4090632b05095135c
+      internalID: 725243922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      2d_platform_game_props___2_characters_by_cizu_d7v8kn5-fullview_62: 676233735
+      2d_platform_game_props___2_characters_by_cizu_d7v8kn5-fullview_31: 1434124568
+      2d_platform_game_props___2_characters_by_cizu_d7v8kn5-fullview_8: -310067197
+      2d_platform_game_props___2_characters_by_cizu_d7v8kn5-fullview_69: -1902306884
+      2d_platform_game_props___2_characters_by_cizu_d7v8kn5-fullview_14: -1378681034
+      2d_platform_game_props___2_characters_by_cizu_d7v8kn5-fullview_6: -174917081
+      2d_platform_game_props___2_characters_by_cizu_d7v8kn5-fullview_29: -1872632432
+      2d_platform_game_props___2_characters_by_cizu_d7v8kn5-fullview_43: -1750496150
+      2d_platform_game_props___2_characters_by_cizu_d7v8kn5-fullview_21: -304247169
+      2d_platform_game_props___2_characters_by_cizu_d7v8kn5-fullview_26: -1529868830
+      2d_platform_game_props___2_characters_by_cizu_d7v8kn5-fullview_20: -1687740934
+      2d_platform_game_props___2_characters_by_cizu_d7v8kn5-fullview_32: -103156241
+      2d_platform_game_props___2_characters_by_cizu_d7v8kn5-fullview_60: 1515787930
+      2d_platform_game_props___2_characters_by_cizu_d7v8kn5-fullview_2: -1692837380
+      2d_platform_game_props___2_characters_by_cizu_d7v8kn5-fullview_5: 1447728902
+      2d_platform_game_props___2_characters_by_cizu_d7v8kn5-fullview_42: -1516876798
+      2d_platform_game_props___2_characters_by_cizu_d7v8kn5-fullview_73: 1692786480
+      2d_platform_game_props___2_characters_by_cizu_d7v8kn5-fullview_16: -2044777247
+      2d_platform_game_props___2_characters_by_cizu_d7v8kn5-fullview_13: 74839739
+      2d_platform_game_props___2_characters_by_cizu_d7v8kn5-fullview_66: -579076763
+      2d_platform_game_props___2_characters_by_cizu_d7v8kn5-fullview_47: -1884988692
+      2d_platform_game_props___2_characters_by_cizu_d7v8kn5-fullview_12: -651900569
+      2d_platform_game_props___2_characters_by_cizu_d7v8kn5-fullview_71: 1788828221
+      2d_platform_game_props___2_characters_by_cizu_d7v8kn5-fullview_61: -627999022
+      2d_platform_game_props___2_characters_by_cizu_d7v8kn5-fullview_0: 1994623683
+      2d_platform_game_props___2_characters_by_cizu_d7v8kn5-fullview_55: -1528618583
+      2d_platform_game_props___2_characters_by_cizu_d7v8kn5-fullview_37: 1957332366
+      2d_platform_game_props___2_characters_by_cizu_d7v8kn5-fullview_59: 411727193
+      2d_platform_game_props___2_characters_by_cizu_d7v8kn5-fullview_46: 910276052
+      2d_platform_game_props___2_characters_by_cizu_d7v8kn5-fullview_3: 2054146115
+      2d_platform_game_props___2_characters_by_cizu_d7v8kn5-fullview_49: -1646984926
+      2d_platform_game_props___2_characters_by_cizu_d7v8kn5-fullview_28: 969566728
+      2d_platform_game_props___2_characters_by_cizu_d7v8kn5-fullview_1: -268158046
+      2d_platform_game_props___2_characters_by_cizu_d7v8kn5-fullview_17: 1680905694
+      2d_platform_game_props___2_characters_by_cizu_d7v8kn5-fullview_45: -985287325
+      2d_platform_game_props___2_characters_by_cizu_d7v8kn5-fullview_18: -568955669
+      2d_platform_game_props___2_characters_by_cizu_d7v8kn5-fullview_23: 1580033038
+      2d_platform_game_props___2_characters_by_cizu_d7v8kn5-fullview_33: -916441622
+      2d_platform_game_props___2_characters_by_cizu_d7v8kn5-fullview_41: -1813891084
+      2d_platform_game_props___2_characters_by_cizu_d7v8kn5-fullview_19: -2057035048
+      2d_platform_game_props___2_characters_by_cizu_d7v8kn5-fullview_52: -746418621
+      2d_platform_game_props___2_characters_by_cizu_d7v8kn5-fullview_39: -663358713
+      2d_platform_game_props___2_characters_by_cizu_d7v8kn5-fullview_68: 2020061781
+      2d_platform_game_props___2_characters_by_cizu_d7v8kn5-fullview_67: 309551142
+      2d_platform_game_props___2_characters_by_cizu_d7v8kn5-fullview_35: -863756853
+      2d_platform_game_props___2_characters_by_cizu_d7v8kn5-fullview_4: 276255271
+      2d_platform_game_props___2_characters_by_cizu_d7v8kn5-fullview_50: -1725741262
+      2d_platform_game_props___2_characters_by_cizu_d7v8kn5-fullview_48: -578444527
+      2d_platform_game_props___2_characters_by_cizu_d7v8kn5-fullview_65: -344289925
+      2d_platform_game_props___2_characters_by_cizu_d7v8kn5-fullview_74: -110295216
+      2d_platform_game_props___2_characters_by_cizu_d7v8kn5-fullview_10: -2087346278
+      2d_platform_game_props___2_characters_by_cizu_d7v8kn5-fullview_22: 363788912
+      2d_platform_game_props___2_characters_by_cizu_d7v8kn5-fullview_15: 358364981
+      2d_platform_game_props___2_characters_by_cizu_d7v8kn5-fullview_24: 1078298939
+      2d_platform_game_props___2_characters_by_cizu_d7v8kn5-fullview_11: 1486703622
+      2d_platform_game_props___2_characters_by_cizu_d7v8kn5-fullview_54: 2027999882
+      2d_platform_game_props___2_characters_by_cizu_d7v8kn5-fullview_27: -496923356
+      2d_platform_game_props___2_characters_by_cizu_d7v8kn5-fullview_25: 1204180333
+      2d_platform_game_props___2_characters_by_cizu_d7v8kn5-fullview_7: 675887890
+      2d_platform_game_props___2_characters_by_cizu_d7v8kn5-fullview_34: 2112726371
+      2d_platform_game_props___2_characters_by_cizu_d7v8kn5-fullview_44: 190551894
+      2d_platform_game_props___2_characters_by_cizu_d7v8kn5-fullview_70: 1597999505
+      2d_platform_game_props___2_characters_by_cizu_d7v8kn5-fullview_36: -171341558
+      2d_platform_game_props___2_characters_by_cizu_d7v8kn5-fullview_75: 231058550
+      2d_platform_game_props___2_characters_by_cizu_d7v8kn5-fullview_77: 725243922
+      2d_platform_game_props___2_characters_by_cizu_d7v8kn5-fullview_72: 496763210
+      2d_platform_game_props___2_characters_by_cizu_d7v8kn5-fullview_9: -1186627668
+      2d_platform_game_props___2_characters_by_cizu_d7v8kn5-fullview_53: 38964317
+      2d_platform_game_props___2_characters_by_cizu_d7v8kn5-fullview_30: -1003241721
+      2d_platform_game_props___2_characters_by_cizu_d7v8kn5-fullview_57: -271058782
+      2d_platform_game_props___2_characters_by_cizu_d7v8kn5-fullview_63: -1911966708
+      2d_platform_game_props___2_characters_by_cizu_d7v8kn5-fullview_51: -914846816
+      2d_platform_game_props___2_characters_by_cizu_d7v8kn5-fullview_40: -526718747
+      2d_platform_game_props___2_characters_by_cizu_d7v8kn5-fullview_38: -1113138770
+      2d_platform_game_props___2_characters_by_cizu_d7v8kn5-fullview_56: 1172890635
+      2d_platform_game_props___2_characters_by_cizu_d7v8kn5-fullview_58: 369483408
+      2d_platform_game_props___2_characters_by_cizu_d7v8kn5-fullview_76: 793846755
+      2d_platform_game_props___2_characters_by_cizu_d7v8kn5-fullview_64: -748759958
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
