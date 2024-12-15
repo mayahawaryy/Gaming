@@ -4,13 +4,13 @@ using UnityEngine;
 
 public class FollowerEnemy : EnemyController
 {
-    private Move player;
+    private Move_Hatem player;
     public Collider2D detectionZone; 
 
     // Start is called before the first frame update
     void Start()
     {
-        player = FindObjectOfType<Move>();
+        player = FindObjectOfType<Move_Hatem>();
     }
 
     // Update is called once per frame

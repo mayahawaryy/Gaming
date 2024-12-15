@@ -12,11 +12,8 @@ public class Nav : MonoBehaviour
  SceneManager.LoadScene(6);
 
  } 
-   public void gameover()
-   {
- SceneManager.LoadScene(0);
-
- } 
+  
+  
     public GameObject LoaderUI;
     public Slider progressSlider;
  

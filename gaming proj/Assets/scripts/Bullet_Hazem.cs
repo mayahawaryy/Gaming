@@ -9,7 +9,8 @@ public class Bullet_Hazem : MonoBehaviour
 
     void Start()
     {
-        // No need to find player here
+       Move_Hazem player;
+        player= FindObjectOfType<Move_Hazem>();
     }
 
     void Update()

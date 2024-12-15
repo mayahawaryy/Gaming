@@ -21,7 +21,8 @@ public class LevelManager : MonoBehaviour
 
     public void RespawnPlayer()
     {
-        FindObjectOfType<Move>().transform.position=CurrentCheckpoint.transform.position;
+        FindObjectOfType<Move_Hatem>().transform.position=CurrentCheckpoint.transform.position;
+        FindObjectOfType<Move_Hazem>().transform.position=CurrentCheckpoint.transform.position;
     }
 
     public void RespawnEnemy()

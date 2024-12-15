@@ -9,12 +9,13 @@ public class Door : MonoBehaviour
 {
     public bool locked;
     private Animator a;
+    public int nextSceneIndex; 
+
     // Start is called before the first frame update
     void Start()
     {
         a=GetComponent<Animator>();
-       locked=true ;
-
+        locked=true ;
     }
 
     // Update is called once per frame
@@ -22,13 +23,12 @@ public class Door : MonoBehaviour
     {
         
     }
+
     private void OnTriggerEnter2D(Collider2D other){
         if(other.gameObject.CompareTag("Key")){
-locked=false;
-a.SetTrigger("Open");
-SceneManager.LoadScene(5);
-//door code edit
-}
+            locked=false;
+            a.SetTrigger("Open");
+            SceneManager.LoadScene(nextSceneIndex); 
+        }
     }
-//
 }

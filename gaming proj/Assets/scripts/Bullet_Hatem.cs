@@ -9,8 +9,8 @@ public class Bullet_Hatem : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-       Move player;
-        player= FindObjectOfType<Move>();
+       Move_Hatem player;
+        player= FindObjectOfType<Move_Hatem>();
       
     }
 
