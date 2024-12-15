@@ -2994,7 +2994,7 @@ Camera:
   far clip plane: 1000
   field of view: 60
   orthographic: 1
-  orthographic size: 5
+  orthographic size: 7
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
@@ -3039,10 +3039,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Target: {fileID: 61807515}
   Cameraspeed: 3
-  minX: -30
-  maxX: 100
+  minX: -3
+  maxX: 4
   minY: -5
-  maxY: 100
+  maxY: 5
 --- !u!1 &581574501
 GameObject:
   m_ObjectHideFlags: 0
@@ -3574,12 +3574,20 @@ PrefabInstance:
       value: hatem
       objectReference: {fileID: 0}
     - target: {fileID: 427276907872436017, guid: 23f7aa217f6a2d44493b7947572e6a6f, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.17370403
+      objectReference: {fileID: 0}
+    - target: {fileID: 427276907872436017, guid: 23f7aa217f6a2d44493b7947572e6a6f, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.120138176
+      objectReference: {fileID: 0}
+    - target: {fileID: 427276907872436017, guid: 23f7aa217f6a2d44493b7947572e6a6f, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -6.02
+      value: -6.16
       objectReference: {fileID: 0}
     - target: {fileID: 427276907872436017, guid: 23f7aa217f6a2d44493b7947572e6a6f, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.68
+      value: 0.6
       objectReference: {fileID: 0}
     - target: {fileID: 427276907872436017, guid: 23f7aa217f6a2d44493b7947572e6a6f, type: 3}
       propertyPath: m_LocalPosition.z
