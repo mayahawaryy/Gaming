@@ -38,7 +38,6 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0, g: 0, b: 0, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -3577,11 +3576,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5895116285948121511, guid: a1c0a4f3e677f4053b7d7b0c2f82e9fe, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -8.8
+      value: 60.31
       objectReference: {fileID: 0}
     - target: {fileID: 5895116285948121511, guid: a1c0a4f3e677f4053b7d7b0c2f82e9fe, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -5.9
+      value: -7.55
       objectReference: {fileID: 0}
     - target: {fileID: 5895116285948121511, guid: a1c0a4f3e677f4053b7d7b0c2f82e9fe, type: 3}
       propertyPath: m_LocalPosition.z
@@ -4503,23 +4502,23 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6797330889407233101, guid: 06af42f7ccded0446929d2fc0e193bdd, type: 3}
       propertyPath: m_LocalScale.x
-      value: -0.32581967
+      value: -0.28792685
       objectReference: {fileID: 0}
     - target: {fileID: 6797330889407233101, guid: 06af42f7ccded0446929d2fc0e193bdd, type: 3}
       propertyPath: m_LocalScale.y
-      value: 0.33049914
+      value: 0.252931
       objectReference: {fileID: 0}
     - target: {fileID: 6797330889407233101, guid: 06af42f7ccded0446929d2fc0e193bdd, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -14.1
+      value: 3.0973
       objectReference: {fileID: 0}
     - target: {fileID: 6797330889407233101, guid: 06af42f7ccded0446929d2fc0e193bdd, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -8
+      value: -0.9355
       objectReference: {fileID: 0}
     - target: {fileID: 6797330889407233101, guid: 06af42f7ccded0446929d2fc0e193bdd, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -0.05
+      value: -0.1023
       objectReference: {fileID: 0}
     - target: {fileID: 6797330889407233101, guid: 06af42f7ccded0446929d2fc0e193bdd, type: 3}
       propertyPath: m_LocalRotation.w
@@ -6511,23 +6510,23 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 427276907872436017, guid: 23f7aa217f6a2d44493b7947572e6a6f, type: 3}
       propertyPath: m_LocalScale.x
-      value: 0.3795524
+      value: 0.33541045
       objectReference: {fileID: 0}
     - target: {fileID: 427276907872436017, guid: 23f7aa217f6a2d44493b7947572e6a6f, type: 3}
       propertyPath: m_LocalScale.y
-      value: 0.3069791
+      value: 0.2349311
       objectReference: {fileID: 0}
     - target: {fileID: 427276907872436017, guid: 23f7aa217f6a2d44493b7947572e6a6f, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -11.420002
+      value: 5.4656
       objectReference: {fileID: 0}
     - target: {fileID: 427276907872436017, guid: 23f7aa217f6a2d44493b7947572e6a6f, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -8.08
+      value: -0.9967
       objectReference: {fileID: 0}
     - target: {fileID: 427276907872436017, guid: 23f7aa217f6a2d44493b7947572e6a6f, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -0.05
+      value: -0.1024
       objectReference: {fileID: 0}
     - target: {fileID: 427276907872436017, guid: 23f7aa217f6a2d44493b7947572e6a6f, type: 3}
       propertyPath: m_LocalRotation.w
@@ -6559,11 +6558,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 427276907872436018, guid: 23f7aa217f6a2d44493b7947572e6a6f, type: 3}
       propertyPath: m_ConnectedAnchor.x
-      value: -0.9033192
+      value: -3.3856614
       objectReference: {fileID: 0}
     - target: {fileID: 427276907872436018, guid: 23f7aa217f6a2d44493b7947572e6a6f, type: 3}
       propertyPath: m_ConnectedAnchor.y
-      value: 1.7477161
+      value: 1.4572469
       objectReference: {fileID: 0}
     - target: {fileID: 427276907872436018, guid: 23f7aa217f6a2d44493b7947572e6a6f, type: 3}
       propertyPath: m_ConnectedRigidBody
@@ -15280,7 +15279,7 @@ MonoBehaviour:
   player: {fileID: 0}
 --- !u!95 &1920281120
 Animator:
-  serializedVersion: 4
+  serializedVersion: 5
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -15297,7 +15296,8 @@ Animator:
   m_WarningMessage: 
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
-  m_KeepAnimatorControllerStateOnDisable: 0
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!212 &1920281121
 SpriteRenderer:
   m_ObjectHideFlags: 0

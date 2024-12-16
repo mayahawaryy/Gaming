@@ -38,7 +38,6 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0, g: 0, b: 0, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -134,7 +133,7 @@ GameObject:
   - component: {fileID: 29938102}
   - component: {fileID: 29938101}
   - component: {fileID: 29938103}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: lab scene_7 (9)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -316,7 +315,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 66
+  m_RootOrder: 65
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &118638245
 GameObject:
@@ -329,7 +328,7 @@ GameObject:
   - component: {fileID: 118638247}
   - component: {fileID: 118638246}
   - component: {fileID: 118638248}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: lab scene_7 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -440,7 +439,7 @@ GameObject:
   - component: {fileID: 182546840}
   - component: {fileID: 182546839}
   - component: {fileID: 182546841}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: lab scene_7 (43)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -551,7 +550,7 @@ GameObject:
   - component: {fileID: 196211027}
   - component: {fileID: 196211026}
   - component: {fileID: 196211028}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: lab scene_7 (34)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -744,7 +743,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 70
+  m_RootOrder: 69
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &238765579
 GameObject:
@@ -757,7 +756,7 @@ GameObject:
   - component: {fileID: 238765581}
   - component: {fileID: 238765580}
   - component: {fileID: 238765582}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: lab scene_7 (47)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -868,7 +867,7 @@ GameObject:
   - component: {fileID: 257420216}
   - component: {fileID: 257420215}
   - component: {fileID: 257420217}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: lab scene_7 (45)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -985,11 +984,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 427276907872436017, guid: 23f7aa217f6a2d44493b7947572e6a6f, type: 3}
       propertyPath: m_LocalScale.x
-      value: 0.22626522
+      value: 0.108743064
       objectReference: {fileID: 0}
     - target: {fileID: 427276907872436017, guid: 23f7aa217f6a2d44493b7947572e6a6f, type: 3}
       propertyPath: m_LocalScale.y
-      value: 0.19558962
+      value: 0.10661589
       objectReference: {fileID: 0}
     - target: {fileID: 427276907872436017, guid: 23f7aa217f6a2d44493b7947572e6a6f, type: 3}
       propertyPath: m_LocalScale.z
@@ -997,11 +996,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 427276907872436017, guid: 23f7aa217f6a2d44493b7947572e6a6f, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -16.5759
+      value: -6.9757
       objectReference: {fileID: 0}
     - target: {fileID: 427276907872436017, guid: 23f7aa217f6a2d44493b7947572e6a6f, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -2.3864
+      value: -2.996
       objectReference: {fileID: 0}
     - target: {fileID: 427276907872436017, guid: 23f7aa217f6a2d44493b7947572e6a6f, type: 3}
       propertyPath: m_LocalPosition.z
@@ -1060,7 +1059,7 @@ GameObject:
   - component: {fileID: 308742820}
   - component: {fileID: 308742819}
   - component: {fileID: 308742821}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: lab scene_7 (10)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1171,7 +1170,7 @@ GameObject:
   - component: {fileID: 309550372}
   - component: {fileID: 309550371}
   - component: {fileID: 309550373}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: lab scene_7 (21)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1282,7 +1281,7 @@ GameObject:
   - component: {fileID: 404452919}
   - component: {fileID: 404452918}
   - component: {fileID: 404452920}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: lab scene_7 (24)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1393,7 +1392,7 @@ GameObject:
   - component: {fileID: 440935230}
   - component: {fileID: 440935229}
   - component: {fileID: 440935231}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: lab scene_7 (29)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1575,7 +1574,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 72
+  m_RootOrder: 71
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &462574808
 GameObject:
@@ -1588,7 +1587,7 @@ GameObject:
   - component: {fileID: 462574810}
   - component: {fileID: 462574809}
   - component: {fileID: 462574811}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: lab scene_7 (41)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1699,7 +1698,7 @@ GameObject:
   - component: {fileID: 518606400}
   - component: {fileID: 518606399}
   - component: {fileID: 518606401}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: lab scene_7 (33)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1913,7 +1912,7 @@ GameObject:
   - component: {fileID: 598684818}
   - component: {fileID: 598684817}
   - component: {fileID: 598684819}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: lab scene_7 (18)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2108,7 +2107,7 @@ GameObject:
   - component: {fileID: 618172729}
   - component: {fileID: 618172728}
   - component: {fileID: 618172730}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: lab scene_7 (15)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2219,7 +2218,7 @@ GameObject:
   - component: {fileID: 634378169}
   - component: {fileID: 634378168}
   - component: {fileID: 634378170}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: lab scene_7 (44)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2330,7 +2329,7 @@ GameObject:
   - component: {fileID: 654863493}
   - component: {fileID: 654863492}
   - component: {fileID: 654863494}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: lab scene_7 (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2441,7 +2440,7 @@ GameObject:
   - component: {fileID: 668084594}
   - component: {fileID: 668084593}
   - component: {fileID: 668084595}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: lab scene_7 (39)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2552,7 +2551,7 @@ GameObject:
   - component: {fileID: 677777169}
   - component: {fileID: 677777168}
   - component: {fileID: 677777170}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: lab scene_7 (38)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2663,7 +2662,7 @@ GameObject:
   - component: {fileID: 724043337}
   - component: {fileID: 724043336}
   - component: {fileID: 724043338}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: lab scene_7 (28)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2774,7 +2773,7 @@ GameObject:
   - component: {fileID: 724870940}
   - component: {fileID: 724870939}
   - component: {fileID: 724870941}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: lab scene_7 (23)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2956,7 +2955,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 65
+  m_RootOrder: 64
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &743068355
 GameObject:
@@ -2969,7 +2968,7 @@ GameObject:
   - component: {fileID: 743068357}
   - component: {fileID: 743068356}
   - component: {fileID: 743068358}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: lab scene_7 (16)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3080,7 +3079,7 @@ GameObject:
   - component: {fileID: 744052910}
   - component: {fileID: 744052909}
   - component: {fileID: 744052911}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: lab scene_7 (37)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3191,7 +3190,7 @@ GameObject:
   - component: {fileID: 753679414}
   - component: {fileID: 753679413}
   - component: {fileID: 753679415}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: lab scene_7 (20)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3373,7 +3372,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 71
+  m_RootOrder: 70
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &780630355
 GameObject:
@@ -3386,7 +3385,7 @@ GameObject:
   - component: {fileID: 780630357}
   - component: {fileID: 780630356}
   - component: {fileID: 780630358}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: lab scene_7 (13)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3497,7 +3496,7 @@ GameObject:
   - component: {fileID: 806010710}
   - component: {fileID: 806010709}
   - component: {fileID: 806010711}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: lab scene_7 (30)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3932,11 +3931,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6797330889407233101, guid: 06af42f7ccded0446929d2fc0e193bdd, type: 3}
       propertyPath: m_LocalScale.x
-      value: -0.19423316
+      value: -0.09334846
       objectReference: {fileID: 0}
     - target: {fileID: 6797330889407233101, guid: 06af42f7ccded0446929d2fc0e193bdd, type: 3}
       propertyPath: m_LocalScale.y
-      value: 0.21057528
+      value: 0.11478458
       objectReference: {fileID: 0}
     - target: {fileID: 6797330889407233101, guid: 06af42f7ccded0446929d2fc0e193bdd, type: 3}
       propertyPath: m_LocalScale.z
@@ -3944,11 +3943,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6797330889407233101, guid: 06af42f7ccded0446929d2fc0e193bdd, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -17.8699
+      value: -7.5976
       objectReference: {fileID: 0}
     - target: {fileID: 6797330889407233101, guid: 06af42f7ccded0446929d2fc0e193bdd, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -2.384
+      value: -2.9947
       objectReference: {fileID: 0}
     - target: {fileID: 6797330889407233101, guid: 06af42f7ccded0446929d2fc0e193bdd, type: 3}
       propertyPath: m_LocalPosition.z
@@ -3999,7 +3998,7 @@ GameObject:
   - component: {fileID: 1020149781}
   - component: {fileID: 1020149780}
   - component: {fileID: 1020149782}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: lab scene_7 (42)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4110,7 +4109,7 @@ GameObject:
   - component: {fileID: 1035785731}
   - component: {fileID: 1035785730}
   - component: {fileID: 1035785732}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: lab scene_7 (14)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4221,7 +4220,7 @@ GameObject:
   - component: {fileID: 1049150442}
   - component: {fileID: 1049150441}
   - component: {fileID: 1049150443}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: lab scene_7 (31)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4332,7 +4331,7 @@ GameObject:
   - component: {fileID: 1075003088}
   - component: {fileID: 1075003087}
   - component: {fileID: 1075003089}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: lab scene_7 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4443,7 +4442,7 @@ GameObject:
   - component: {fileID: 1077629193}
   - component: {fileID: 1077629192}
   - component: {fileID: 1077629194}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: lab scene_7 (46)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4559,7 +4558,7 @@ GameObject:
   - component: {fileID: 1134446845}
   - component: {fileID: 1134446844}
   - component: {fileID: 1134446846}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: lab scene_7 (19)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4670,7 +4669,7 @@ GameObject:
   - component: {fileID: 1159180254}
   - component: {fileID: 1159180253}
   - component: {fileID: 1159180255}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: lab scene_7 (8)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4781,7 +4780,7 @@ GameObject:
   - component: {fileID: 1170113624}
   - component: {fileID: 1170113623}
   - component: {fileID: 1170113625}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: lab scene_7 (11)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4881,71 +4880,6 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.72, y: 1.35}
   m_EdgeRadius: 0
---- !u!1001 &1236587519
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 5441129319441965429, guid: cfa14c8a58f9a493eafaf649a77290f3, type: 3}
-      propertyPath: m_RootOrder
-      value: 60
-      objectReference: {fileID: 0}
-    - target: {fileID: 5441129319441965429, guid: cfa14c8a58f9a493eafaf649a77290f3, type: 3}
-      propertyPath: m_LocalScale.x
-      value: 1.8703363
-      objectReference: {fileID: 0}
-    - target: {fileID: 5441129319441965429, guid: cfa14c8a58f9a493eafaf649a77290f3, type: 3}
-      propertyPath: m_LocalScale.y
-      value: 2.0370004
-      objectReference: {fileID: 0}
-    - target: {fileID: 5441129319441965429, guid: cfa14c8a58f9a493eafaf649a77290f3, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 3.06
-      objectReference: {fileID: 0}
-    - target: {fileID: 5441129319441965429, guid: cfa14c8a58f9a493eafaf649a77290f3, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -2.91
-      objectReference: {fileID: 0}
-    - target: {fileID: 5441129319441965429, guid: cfa14c8a58f9a493eafaf649a77290f3, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5441129319441965429, guid: cfa14c8a58f9a493eafaf649a77290f3, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 0.999817
-      objectReference: {fileID: 0}
-    - target: {fileID: 5441129319441965429, guid: cfa14c8a58f9a493eafaf649a77290f3, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0.00017032363
-      objectReference: {fileID: 0}
-    - target: {fileID: 5441129319441965429, guid: cfa14c8a58f9a493eafaf649a77290f3, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0.015805999
-      objectReference: {fileID: 0}
-    - target: {fileID: 5441129319441965429, guid: cfa14c8a58f9a493eafaf649a77290f3, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0.010773855
-      objectReference: {fileID: 0}
-    - target: {fileID: 5441129319441965429, guid: cfa14c8a58f9a493eafaf649a77290f3, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5441129319441965429, guid: cfa14c8a58f9a493eafaf649a77290f3, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 1.811
-      objectReference: {fileID: 0}
-    - target: {fileID: 5441129319441965429, guid: cfa14c8a58f9a493eafaf649a77290f3, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 1.235
-      objectReference: {fileID: 0}
-    - target: {fileID: 5441129319441965430, guid: cfa14c8a58f9a493eafaf649a77290f3, type: 3}
-      propertyPath: m_Name
-      value: torch3_2 (1)
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: cfa14c8a58f9a493eafaf649a77290f3, type: 3}
 --- !u!1 &1236848763
 GameObject:
   m_ObjectHideFlags: 0
@@ -4957,7 +4891,7 @@ GameObject:
   - component: {fileID: 1236848765}
   - component: {fileID: 1236848764}
   - component: {fileID: 1236848766}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: lab scene_7 (35)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5068,7 +5002,7 @@ GameObject:
   - component: {fileID: 1307561588}
   - component: {fileID: 1307561587}
   - component: {fileID: 1307561589}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: lab scene_7 (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5179,7 +5113,7 @@ GameObject:
   - component: {fileID: 1337768589}
   - component: {fileID: 1337768588}
   - component: {fileID: 1337768590}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: lab scene_7 (22)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5361,7 +5295,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 69
+  m_RootOrder: 68
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1396903552
 GameObject:
@@ -5374,7 +5308,7 @@ GameObject:
   - component: {fileID: 1396903554}
   - component: {fileID: 1396903553}
   - component: {fileID: 1396903555}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: lab scene_7
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5608,7 +5542,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 2621477877351419430, guid: 52ac91fd0497208419f4aa822cac0209, type: 3}
       propertyPath: m_RootOrder
-      value: 61
+      value: 60
       objectReference: {fileID: 0}
     - target: {fileID: 2621477877351419430, guid: 52ac91fd0497208419f4aa822cac0209, type: 3}
       propertyPath: m_LocalPosition.x
@@ -5697,7 +5631,7 @@ GameObject:
   - component: {fileID: 1611287721}
   - component: {fileID: 1611287720}
   - component: {fileID: 1611287722}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: lab scene_7 (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5879,7 +5813,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 62
+  m_RootOrder: 61
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1633879574
 GameObject:
@@ -5963,7 +5897,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 64
+  m_RootOrder: 63
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1654393571
 GameObject:
@@ -6047,7 +5981,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 63
+  m_RootOrder: 62
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1660380251
 GameObject:
@@ -6144,7 +6078,7 @@ GameObject:
   - component: {fileID: 1700713385}
   - component: {fileID: 1700713384}
   - component: {fileID: 1700713386}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: lab scene_7 (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6326,7 +6260,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 68
+  m_RootOrder: 67
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1788630042
 GameObject:
@@ -6339,7 +6273,7 @@ GameObject:
   - component: {fileID: 1788630044}
   - component: {fileID: 1788630043}
   - component: {fileID: 1788630045}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: lab scene_7 (27)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6450,7 +6384,7 @@ GameObject:
   - component: {fileID: 1826848578}
   - component: {fileID: 1826848577}
   - component: {fileID: 1826848579}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: lab scene_7 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6632,7 +6566,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 67
+  m_RootOrder: 66
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1852815605
 GameObject:
@@ -6645,7 +6579,7 @@ GameObject:
   - component: {fileID: 1852815607}
   - component: {fileID: 1852815606}
   - component: {fileID: 1852815608}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: lab scene_7 (17)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6787,7 +6721,7 @@ MonoBehaviour:
   shootInterval: 2
   bulletPrefab: {fileID: 6725507194004212944, guid: 3b31181f3c52942ab90b58a88bf8b5d1, type: 3}
   firePoint: {fileID: 1977432881}
-  health: 23
+  health: 15
 --- !u!212 &1926656257
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -6848,8 +6782,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1926656255}
   m_LocalRotation: {x: 0.00017032363, y: 0.015805999, z: 0.010773855, w: 0.999817}
-  m_LocalPosition: {x: -0.71, y: -2.15, z: -0}
-  m_LocalScale: {x: 0.9083197, y: 0.8366, z: 1}
+  m_LocalPosition: {x: -12.74, y: -2.9, z: 0.42}
+  m_LocalScale: {x: 0.43989924, y: 0.43821108, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1977432881}
@@ -6931,7 +6865,7 @@ BoxCollider2D:
   m_EdgeRadius: 0
 --- !u!95 &1926656262
 Animator:
-  serializedVersion: 4
+  serializedVersion: 5
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -6948,7 +6882,8 @@ Animator:
   m_WarningMessage: 
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
-  m_KeepAnimatorControllerStateOnDisable: 0
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!114 &1926656263
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6973,7 +6908,7 @@ GameObject:
   - component: {fileID: 1956491431}
   - component: {fileID: 1956491430}
   - component: {fileID: 1956491432}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: lab scene_7 (40)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7084,7 +7019,7 @@ GameObject:
   - component: {fileID: 1960231849}
   - component: {fileID: 1960231848}
   - component: {fileID: 1960231850}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: lab scene_7 (12)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7244,8 +7179,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bfecc6c16d30d4622aadb92a383ede2d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  player1: {fileID: 0}
-  player2: {fileID: 0}
+  player1: {fileID: 814290906}
+  player2: {fileID: 2119221126}
   immunityDuration: 1.5
   healthbar: {fileID: 230932523}
 --- !u!4 &1992692501
@@ -7275,7 +7210,7 @@ GameObject:
   - component: {fileID: 2003214377}
   - component: {fileID: 2003214376}
   - component: {fileID: 2003214378}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: lab scene_7 (25)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7386,7 +7321,7 @@ GameObject:
   - component: {fileID: 2014671152}
   - component: {fileID: 2014671151}
   - component: {fileID: 2014671153}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: lab scene_7 (36)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7497,7 +7432,7 @@ GameObject:
   - component: {fileID: 2103556273}
   - component: {fileID: 2103556272}
   - component: {fileID: 2103556274}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: lab scene_7 (32)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7669,7 +7604,7 @@ GameObject:
   - component: {fileID: 2146895417}
   - component: {fileID: 2146895416}
   - component: {fileID: 2146895418}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: lab scene_7 (26)
   m_TagString: Untagged
   m_Icon: {fileID: 0}

@@ -25,7 +25,7 @@ public class Gold : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D other)
     {
-        if (other.gameObject.CompareTag("Key"))
+        if (other.gameObject.CompareTag("Player"))
         {
             sr.sprite = explodedBlock; // Set the sprite here
             Destroy(gameObject, 0.2f); // Optionally destroy the game object after a short delay

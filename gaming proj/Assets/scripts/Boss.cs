@@ -1,4 +1,8 @@
+using System.Collections;
+using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
+using UnityEngine.UI;
 
 public class Boss : MonoBehaviour
 {
@@ -74,6 +78,7 @@ public class Boss : MonoBehaviour
         {
             // Handle boss death here (e.g., play death animation, destroy the boss)
             Destroy(gameObject);
+             SceneManager.LoadScene(14);
         }
         else
         {
