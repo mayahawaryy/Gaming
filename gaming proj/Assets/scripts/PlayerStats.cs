@@ -47,7 +47,7 @@ public class PlayerStats : MonoBehaviour
 
                     Destroy(player1);
                     Destroy(player2);
-                    SceneManager.LoadScene(11);
+                    SceneManager.LoadScene(13);
                 }
 
             }

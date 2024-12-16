@@ -102,5 +102,5 @@ public class Boss : MonoBehaviour
         float distanceToPlayer2 = Vector2.Distance(transform.position, player2.transform.position);
 
         return distanceToPlayer1 < distanceToPlayer2 ? player1 : player2;
-    }
+    }
 }

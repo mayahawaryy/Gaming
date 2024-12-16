@@ -10,13 +10,17 @@ public class Key : MonoBehaviour
     public bool picked;
     private Vector2 vel;
     public float SmoothTime;
-
+    public AudioClip keycollected; // Ensure this is assigned in the Inspector
     private int playerIndex = -1; // Track which player picked it up
 
     // Start is called before the first frame update
     void Start()
     {
-        
+        // Validate that the AudioManager is present
+        if (AudioManager.instance == null)
+        {
+            Debug.LogError("AudioManager instance is not found in the scene!");
+        }
     }
 
     // Update is called once per frame
@@ -24,6 +28,14 @@ public class Key : MonoBehaviour
     {
         if (picked)
         {
+            // Play the sound when the key is picked
+            if (keycollected != null && AudioManager.instance != null)
+            {
+                AudioManager.instance.PlaySingle(keycollected); // Call a standard play method instead of randomizing
+                keycollected = null; // Prevent the audio from replaying
+            }
+
+            // Smooth follow logic
             Vector3 offset = new Vector3(0, 1, 0);
             Vector3 targetPosition;
 

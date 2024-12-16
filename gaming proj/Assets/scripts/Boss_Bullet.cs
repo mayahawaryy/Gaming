@@ -27,6 +27,6 @@ public class Boss_Bullet : MonoBehaviour
     public void SetFacingDirection(bool facingRight) 
     {
         isFacingRight = facingRight;
-        spriteRenderer.flipX = !isFacingRight; 
-    }
+        spriteRenderer.flipX = !isFacingRight; 
+    }
 }

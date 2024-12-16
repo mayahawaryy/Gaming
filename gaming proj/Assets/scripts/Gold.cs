@@ -4,10 +4,13 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 using UnityEngine.EventSystems;
+
 public class Gold : MonoBehaviour
 {
     private SpriteRenderer sr;
-public Sprite explodedBlock;
+    public Sprite explodedBlock;
+    public int nextSceneIndex;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -17,18 +20,16 @@ public Sprite explodedBlock;
     // Update is called once per frame
     void Update()
     {
-
-
+        // No need for any logic in Update for this script
     }
-    void OnTriggerEnter2D(Collider2D other)
 
-{
-       if(other.gameObject.CompareTag("Player"))
-{
-// Change the Block sprite
-sr.sprite = explodedBlock;
-SceneManager.LoadScene(7);
-//Destroy(gameObject, .2f);
-}
-}
+    private void OnTriggerEnter2D(Collider2D other)
+    {
+        if (other.gameObject.CompareTag("Key"))
+        {
+            sr.sprite = explodedBlock; // Set the sprite here
+            Destroy(gameObject, 0.2f); // Optionally destroy the game object after a short delay
+            SceneManager.LoadScene(nextSceneIndex); // Load the next scene
+        }
+    }
 }
