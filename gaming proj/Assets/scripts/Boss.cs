@@ -77,9 +77,14 @@ public class Boss : MonoBehaviour
         }
         else
         {
-            // Teleport to opposite side and flip
-            Vector3 newPosition = player1.transform.position; // Teleport towards Player1 (you can adjust this)
-            newPosition.x = -newPosition.x; // Flip the x-coordinate
+            // Teleport to opposite side of the current closest player
+            GameObject closestPlayer = GetClosestPlayer();
+            Vector3 newPosition = closestPlayer == player1 ? player2.transform.position : player1.transform.position; 
+
+            // Adjust for consistent distance 
+            float distanceToClosestPlayer = Vector2.Distance(transform.position, closestPlayer.transform.position);
+            newPosition = newPosition + (newPosition - closestPlayer.transform.position).normalized * distanceToClosestPlayer; 
+
             transform.position = newPosition;
             Flip(); 
         }
